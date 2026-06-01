@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "examenes": [
+    {
+      "id": "CG",
+      "nombre": "Conocimientos Generales APF",
+      "icono": "📜",
+      "color": "gold",
+      "temario": "data/temario_CG.json",
+      "cards": [
+        "data/cards_CG_tema1.json",
+        "data/cards_CG_tema2.json",
+        "data/cards_CG_tema3.json",
+        "data/cards_CG_tema4.json",
+        "data/cards_CG_tema5.json",
+        "data/cards_CG_tema6.json"
+      ]
+    },
+    {
+      "id": "CT",
+      "nombre": "Conocimientos Técnicos",
+      "icono": "⚙️",
+      "color": "blue",
+      "temario": "data/temario_CT.json",
+      "cards": []
+    },
+    {
+      "id": "H",
+      "nombre": "Habilidades",
+      "icono": "🧠",
+      "color": "purple",
+      "temario": "data/temario_H.json",
+      "cards": []
+    }
+  ]
+}

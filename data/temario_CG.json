@@ -1,0 +1,70 @@
+{
+  "examen_id": "CG",
+  "examen": "Conocimientos Generales APF",
+  "temas": [
+    {
+      "num": "I",
+      "tema": "I. Conocimientos generales de la Administración Pública Federal",
+      "subtemas": [
+        { "num": "1", "subtema": "1. Introducción a la Administración Pública Federal", "ref": "1" },
+        { "num": "2", "subtema": "2. Importancia de la Administración Pública", "ref": "2-A/2-B" },
+        { "num": "3", "subtema": "3. Introducción a la Administración", "ref": "3" },
+        { "num": "4", "subtema": "4. Burocracia y ejercicio de gobierno", "ref": "4" },
+        { "num": "5", "subtema": "5. Constitución Política de los Estados Unidos Mexicanos", "ref": "5" },
+        { "num": "6", "subtema": "6. Ley Orgánica de la Administración Pública Federal", "ref": "6" },
+        { "num": "7", "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación", "ref": "7" }
+      ]
+    },
+    {
+      "num": "II",
+      "tema": "II. Plan Nacional de Desarrollo y sus Programas",
+      "subtemas": [
+        { "num": "1", "subtema": "1. Sociedad y política", "ref": "8" },
+        { "num": "2", "subtema": "2. Política y gobierno", "ref": "9-A/9-B" },
+        { "num": "3", "subtema": "3. Economía", "ref": "10" },
+        { "num": "4", "subtema": "4. Plan Nacional de Desarrollo", "ref": "11" },
+        { "num": "5", "subtema": "5. Programas de mediano plazo", "ref": "12" }
+      ]
+    },
+    {
+      "num": "III",
+      "tema": "III. Gestión para Resultados (GpR)",
+      "subtemas": [
+        { "num": "1", "subtema": "1. GpR para el cambio social", "ref": "13" },
+        { "num": "2", "subtema": "2. Elementos de la GpR", "ref": "14" },
+        { "num": "3", "subtema": "3. Elementos de la GpR (Objetivos e indicadores)", "ref": "15" },
+        { "num": "4", "subtema": "4. Características del sector público", "ref": "16" }
+      ]
+    },
+    {
+      "num": "IV",
+      "tema": "IV. Obligaciones y responsabilidades de las personas servidoras públicas",
+      "subtemas": [
+        { "num": "1", "subtema": "1. Conceptos relevantes", "ref": "17-A/17-B" },
+        { "num": "2", "subtema": "2. Principios y directrices que rigen la actuación de las personas servidoras públicas", "ref": "18-A/18-B" },
+        { "num": "3", "subtema": "3. Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal", "ref": "19/20" },
+        { "num": "4", "subtema": "4. Faltas administrativas graves de las personas servidoras públicas y sus sanciones", "ref": "21" },
+        { "num": "5", "subtema": "5. Prescripción de la responsabilidad administrativa", "ref": "22" }
+      ]
+    },
+    {
+      "num": "V",
+      "tema": "V. Transparencia y rendición de cuentas",
+      "subtemas": [
+        { "num": "1", "subtema": "1. Disposiciones Generales de la Ley General de Transparencia y Acceso a la Información Pública (LGTAIP)", "ref": "23" },
+        { "num": "2", "subtema": "2. Rendición de cuentas", "ref": "24" },
+        { "num": "3", "subtema": "3. Ley Federal de Presupuesto y Responsabilidad Hacendaria (LFPRH)", "ref": "25-A/25-B" },
+        { "num": "4", "subtema": "4. Ley de Fiscalización y Rendición de Cuentas de la Federación (LFRCF)", "ref": "26" }
+      ]
+    },
+    {
+      "num": "VI",
+      "tema": "VI. Combate a la corrupción",
+      "subtemas": [
+        { "num": "1", "subtema": "1. Ley Federal de Austeridad Republicana", "ref": "27" },
+        { "num": "2", "subtema": "2. Sistema Nacional de Fiscalización", "ref": "28" },
+        { "num": "3", "subtema": "3. Sistema Nacional Anticorrupción", "ref": "29-A/29-B" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "examen_id": "H",
+  "examen": "Habilidades",
+  "temas": [
+    {
+      "num": "I",
+      "tema": "I. Habilidades directivas",
+      "subtemas": [
+        { "num": "1", "subtema": "1. Liderazgo", "ref": "" },
+        { "num": "2", "subtema": "2. Trabajo en equipo", "ref": "" },
+        { "num": "3", "subtema": "3. Orientación a resultados", "ref": "" },
+        { "num": "4", "subtema": "4. Negociación", "ref": "" },
+        { "num": "5", "subtema": "5. Toma de decisiones", "ref": "" }
+      ]
+    },
+    {
+      "num": "II",
+      "tema": "II. Habilidades de análisis",
+      "subtemas": [
+        { "num": "1", "subtema": "1. Pensamiento analítico", "ref": "" },
+        { "num": "2", "subtema": "2. Pensamiento estratégico", "ref": "" }
+      ]
+    }
+  ]
+}

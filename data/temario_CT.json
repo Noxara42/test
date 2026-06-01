@@ -1,0 +1,13 @@
+{
+  "examen_id": "CT",
+  "examen": "Conocimientos Técnicos",
+  "temas": [
+    {
+      "num": "I",
+      "tema": "I. Temas técnicos específicos del puesto",
+      "subtemas": [
+        { "num": "1", "subtema": "1. (Agrega tus subtemas aquí)", "ref": "" }
+      ]
+    }
+  ]
+}
