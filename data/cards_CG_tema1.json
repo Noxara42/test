@@ -1,368 +1,324 @@
 {
   "examen_id": "CG",
-  "examen": "Conocimientos Generales APF",
+  "examen": "Conocimientos Técnicos",
   "tema_num": "I",
   "tema": "I. Conocimientos generales de la Administración Pública Federal",
+  "total_flashcards": 35,
   "flashcards": [
     {
       "id": 1,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Derechos Humanos",
-      "pregunta": "¿Cuáles son los cuatro principios con los que las autoridades deben promover y garantizar los derechos humanos según el artículo 1° de la CPEUM?",
-      "respuesta": "Universalidad, interdependencia, indivisibilidad y progresividad. Además, el Estado tiene la obligación de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos. Las normas en la materia deben interpretarse favoreciendo siempre la protección más amplia a las personas.",
-      "fuente": "CPEUM, Artículo 1°, párrafo tercero",
-      "sabias_que": "La reforma de 2011 elevó a rango constitucional los tratados internacionales de derechos humanos, consolidando el control de convencionalidad en México."
+      "categoria": "Derechos humanos",
+      "pregunta": "¿Qué establece el artículo 1° de la CPEUM sobre los derechos humanos y su ejercicio?",
+      "respuesta": "Todas las personas en los Estados Unidos Mexicanos gozarán de los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que el Estado mexicano sea parte, así como de las garantías para su protección. El ejercicio de estos derechos no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la misma Constitución establece.",
+      "fuente": "CPEUM, Artículo 1°, párrafo primero",
+      "sabias_que": "La reforma de 2011 elevó a rango constitucional los derechos humanos contenidos en tratados internacionales, lo que obliga a todo servidor público a aplicar el principio pro persona al interpretar normas."
     },
     {
       "id": 2,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Derechos Humanos",
-      "pregunta": "¿Qué establece el artículo 1° de la CPEUM sobre la esclavitud y la discriminación?",
-      "respuesta": "Está prohibida la esclavitud en los Estados Unidos Mexicanos; los esclavos del extranjero que entren al territorio nacional alcanzarán su libertad por ese solo hecho. Queda prohibida toda discriminación motivada por origen étnico, género, edad, discapacidades, condición social, salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana.",
-      "fuente": "CPEUM, Artículo 1°, párrafos cuarto y quinto",
-      "sabias_que": "La prohibición de discriminación se amplió en 2006 para incluir preferencias sexuales, siendo México uno de los primeros países latinoamericanos en constitucionalizar este supuesto."
+      "categoria": "Principios DDHH",
+      "pregunta": "¿Cuáles son los principios que rigen la obligación de las autoridades en materia de derechos humanos según el artículo 1° constitucional?",
+      "respuesta": "Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos conforme a los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos.",
+      "fuente": "CPEUM, Artículo 1°, párrafo tercero",
+      "sabias_que": "Estos cuatro principios (universalidad, interdependencia, indivisibilidad y progresividad) son el marco obligatorio para cualquier servidor público al diseñar, ejecutar o evaluar políticas públicas."
     },
     {
       "id": 3,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Pueblos Indígenas",
-      "pregunta": "¿Qué criterio fundamental establece el artículo 2° de la CPEUM para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas?",
-      "respuesta": "La conciencia de su identidad indígena es el criterio fundamental. La Nación Mexicana se define como única e indivisible, con composición pluricultural y multiétnica. Los pueblos indígenas son reconocidos como sujetos de derecho público con personalidad jurídica y patrimonio propio, y tienen derecho a la libre determinación dentro de un marco constitucional de autonomía.",
-      "fuente": "CPEUM, Artículo 2°, párrafos tercero y sexto",
-      "sabias_que": "La reforma del 30 de septiembre de 2024 amplió significativamente los derechos de pueblos indígenas, reconociéndoles personalidad jurídica y patrimonio propio, equiparándolos a entes de derecho público."
+      "categoria": "Prohibiciones constitucionales",
+      "pregunta": "¿Qué queda expresamente prohibido según el artículo 1° de la CPEUM en materia de discriminación?",
+      "respuesta": "Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.",
+      "fuente": "CPEUM, Artículo 1°, párrafo quinto",
+      "sabias_que": "La esclavitud también está prohibida: los esclavos del extranjero que entren al territorio nacional alcanzarán, por ese solo hecho, su libertad y la protección de las leyes."
     },
     {
       "id": 4,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Pueblos Indígenas",
-      "pregunta": "¿Qué establece el artículo 2°, Apartado A, fracción XIII de la CPEUM sobre el derecho de consulta de los pueblos indígenas?",
-      "respuesta": "Los pueblos y comunidades indígenas tienen derecho a ser consultados sobre medidas legislativas o administrativas que puedan causarles afectaciones significativas, con la finalidad de obtener su consentimiento o un acuerdo. Las consultas deben garantizar sus derechos sustantivos. Cuando una medida beneficie a un particular, el costo de la consulta deberá ser cubierto por éste.",
-      "fuente": "CPEUM, Artículo 2°, Apartado A, fracción XIII",
-      "sabias_que": "Los pueblos y comunidades indígenas son los únicos legitimados para impugnar el incumplimiento de este derecho por las vías jurisdiccionales establecidas."
+      "categoria": "Pueblos indígenas",
+      "pregunta": "¿Qué criterio determina la aplicación de las disposiciones constitucionales sobre pueblos indígenas según el artículo 2°?",
+      "respuesta": "La conciencia de su identidad indígena deberá ser el criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. Además, para el reconocimiento de los pueblos y comunidades se toman en cuenta criterios etnolingüísticos, de asentamiento físico y de autoadscripción.",
+      "fuente": "CPEUM, Artículo 2°, párrafos tercero y quinto",
+      "sabias_que": "Desde la reforma de septiembre de 2024, los pueblos y comunidades indígenas son reconocidos como sujetos de derecho público con personalidad jurídica y patrimonio propio, lo que les otorga capacidad jurídica plena."
     },
     {
       "id": 5,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Derecho Educativo",
-      "pregunta": "¿Qué niveles educativos son obligatorios según el artículo 3° de la CPEUM y cuáles corresponden a educación básica?",
-      "respuesta": "La educación básica comprende la inicial, preescolar, primaria y secundaria; ésta y la media superior son obligatorias. La educación superior también es obligatoria en términos de la fracción X del artículo 3°. Toda la educación impartida por el Estado es universal, inclusiva, pública, gratuita y laica. La educación inicial es un derecho de la niñez.",
-      "fuente": "CPEUM, Artículo 3°, párrafos primero y segundo",
-      "sabias_que": "La obligatoriedad de la educación superior fue incorporada en 2019, convirtiendo a México en uno de los pocos países que eleva a rango constitucional ese nivel educativo."
+      "categoria": "Autonomía indígena",
+      "pregunta": "¿Qué establece el Apartado A del artículo 2° sobre el derecho a la consulta de los pueblos indígenas?",
+      "respuesta": "Los pueblos indígenas tienen derecho a ser consultados sobre las medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o llegar a un acuerdo. Las consultas se realizarán conforme a principios y normas que garanticen el ejercicio efectivo de sus derechos. Cuando la medida beneficie a un particular, el costo de la consulta debe ser cubierto por éste.",
+      "fuente": "CPEUM, Artículo 2°, Apartado A, fracción XIII",
+      "sabias_que": "Solo los pueblos y comunidades indígenas están legitimados para impugnar el incumplimiento de este derecho por vías jurisdiccionales, según la reforma de 2024."
     },
     {
       "id": 6,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Derecho Educativo",
-      "pregunta": "¿Cuáles son los atributos que debe tener la educación según la fracción II del artículo 3° de la CPEUM?",
-      "respuesta": "La educación debe ser democrática, nacional, equitativa, inclusiva, intercultural, integral y de excelencia. El criterio que la orienta se basa en el progreso científico y lucha contra la ignorancia, los fanatismos y los prejuicios. En comunidades indígenas se impartirá educación plurilingüe e intercultural. El concepto de excelencia implica el mejoramiento integral constante para el máximo logro de aprendizaje.",
-      "fuente": "CPEUM, Artículo 3°, fracción II, incisos a) al i)",
-      "sabias_que": "El inciso d) de esta fracción fue derogado en 2019; actualmente hay nueve atributos vigentes (a, b, c, e, f, g, h, i), siendo el de excelencia el último en incorporarse."
+      "categoria": "Obligaciones estatales",
+      "pregunta": "¿Qué obligación tiene la Federación respecto al Plan Nacional de Desarrollo y los pueblos indígenas según el artículo 2°, Apartado B?",
+      "respuesta": "La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México tienen la obligación de consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los planes de las entidades federativas y municipios, incorporando en su caso las recomendaciones y propuestas que realicen.",
+      "fuente": "CPEUM, Artículo 2°, Apartado B, fracción XIV",
+      "sabias_que": "Esta obligación de consulta conecta directamente con el trabajo del servidor público en planeación: ignorar este paso puede derivar en impugnaciones que anulen programas enteros de gobierno."
     },
     {
       "id": 7,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Derecho Educativo",
-      "pregunta": "¿A quién corresponde la rectoría de la educación y quién determina los planes y programas de educación básica según el artículo 3° de la CPEUM?",
-      "respuesta": "Corresponde al Estado la rectoría de la educación. El Ejecutivo Federal determina los principios rectores y objetivos de la educación inicial, así como los planes y programas de la educación básica y normal en toda la República, considerando la opinión de los gobiernos de las entidades federativas y de actores sociales involucrados. Las universidades autónomas gobiernan sus propios planes.",
-      "fuente": "CPEUM, Artículo 3°, párrafos segundo y undécimo",
-      "sabias_que": "Las instituciones de educación superior autónomas (fracción VII) quedan expresamente excluidas de las reglas de admisión y promoción docente establecidas para el Sistema para la Carrera de las Maestras y los Maestros."
+      "categoria": "Derecho a educación",
+      "pregunta": "¿Qué niveles educativos son obligatorios según el artículo 3° constitucional?",
+      "respuesta": "La educación inicial, preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación superior lo será en términos de la fracción X del propio artículo. Además, la educación impartida por el Estado será universal, inclusiva, pública, gratuita y laica.",
+      "fuente": "CPEUM, Artículo 3°, párrafos primero y segundo",
+      "sabias_que": "La obligatoriedad de la educación superior es relativamente reciente (adicionada en 2019), lo que implica que el Estado debe crear políticas de acceso, permanencia y continuidad en ese nivel."
     },
     {
       "id": 8,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Derechos Sociales",
-      "pregunta": "¿Qué derechos sociales fundamentales reconoce el artículo 4° de la CPEUM?",
-      "respuesta": "El artículo 4° reconoce la igualdad de hombre y mujer ante la ley; derecho a la alimentación nutritiva, suficiente y de calidad; protección de la salud; medio ambiente sano; acceso al agua en forma suficiente y asequible; vivienda adecuada; identidad y registro al nacimiento; cultura física y deporte; pensiones no contributivas para adultos mayores de 65 años y personas con discapacidad permanente; así como el derecho a vivir una vida libre de violencias.",
-      "fuente": "CPEUM, Artículo 4°, múltiples párrafos",
-      "sabias_que": "La reforma de noviembre de 2024 incorporó deberes reforzados de protección del Estado con mujeres, adolescentes, niñas y niños ante la violencia, como mandato constitucional expreso."
+      "categoria": "Principios educativos",
+      "pregunta": "¿Cuáles son los principios que caracterizan al criterio orientador de la educación según el artículo 3°, fracción II?",
+      "respuesta": "El criterio educativo se basará en el progreso científico, luchará contra la ignorancia y sus efectos. Además será democrático, nacional, equitativo, inclusivo, intercultural, integral y de excelencia. Este último se define como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos para el desarrollo del pensamiento crítico.",
+      "fuente": "CPEUM, Artículo 3°, fracción II e incisos a) al i)",
+      "sabias_que": "La fracción II fue ampliamente reformada en 2019 para incluir los incisos de equidad, inclusión, interculturalidad, integralidad y excelencia, que hoy rigen el sistema educativo nacional."
     },
     {
       "id": 9,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Derechos Sociales",
-      "pregunta": "¿Qué dispone el artículo 4° de la CPEUM sobre el principio del interés superior de la niñez?",
-      "respuesta": "En todas las decisiones y actuaciones del Estado se velará por el principio del interés superior de la niñez, garantizando sus derechos de manera plena: alimentación, salud, educación y sano esparcimiento. Este principio debe guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos.",
-      "fuente": "CPEUM, Artículo 4°, párrafos décimo tercero y décimo cuarto",
-      "sabias_que": "El principio del interés superior de la niñez está reconocido también en la Convención sobre los Derechos del Niño de la ONU, tratado del que México es parte y que tiene rango constitucional conforme al artículo 1°."
+      "categoria": "Autonomía universitaria",
+      "pregunta": "¿Qué facultades tienen las universidades autónomas según el artículo 3°, fracción VII?",
+      "respuesta": "Las universidades y demás instituciones de educación superior a las que la ley otorgue autonomía tendrán la facultad y responsabilidad de gobernarse a sí mismas, realizar sus fines de educar, investigar y difundir la cultura respetando la libertad de cátedra e investigación, determinar sus planes y programas, fijar los términos de ingreso y permanencia de su personal académico, y administrar su patrimonio.",
+      "fuente": "CPEUM, Artículo 3°, fracción VII",
+      "sabias_que": "Las relaciones laborales del personal de las universidades autónomas se rigen por el Apartado A del artículo 123, con modalidades propias, lo que las distingue del resto de la APF."
     },
     {
       "id": 10,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Libertad de Trabajo",
-      "pregunta": "¿En qué casos puede vedarse el ejercicio de la libertad de trabajo según el artículo 5° de la CPEUM?",
-      "respuesta": "El ejercicio de la libertad de trabajo solo puede vedarse por determinación judicial cuando se ataquen los derechos de tercero, o por resolución gubernativa cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo sino por resolución judicial. El contrato de trabajo no podrá exceder de un año en perjuicio del trabajador.",
-      "fuente": "CPEUM, Artículo 5°, párrafo primero y sexto",
-      "sabias_que": "La reforma de enero de 2025 amplió este artículo para prohibir expresamente las actividades mencionadas en el párrafo quinto del artículo 4° (cigarrillos electrónicos, vapeadores, fentanilo), vinculando ambos artículos."
+      "categoria": "Igualdad y familia",
+      "pregunta": "¿Qué establece el artículo 4° sobre la igualdad entre mujer y hombre?",
+      "respuesta": "La mujer y el hombre son iguales ante la ley. La ley protegerá la organización y el desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres. Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.",
+      "fuente": "CPEUM, Artículo 4°, párrafos primero y segundo",
+      "sabias_que": "La igualdad sustantiva —no solo formal— obliga a la APF a implementar medidas diferenciadas para compensar desventajas históricas de las mujeres en el empleo público, más allá de aplicar la misma regla a todos."
     },
     {
       "id": 11,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Acceso Información",
-      "pregunta": "¿Qué principios rigen el ejercicio del derecho de acceso a la información pública según el artículo 6° de la CPEUM?",
-      "respuesta": "El ejercicio del derecho de acceso a la información se rige por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Toda la información en posesión de autoridades es pública y solo puede reservarse temporalmente por razones de interés público y seguridad nacional. Toda persona tiene acceso gratuito a la información pública sin necesidad de justificar su utilización.",
-      "fuente": "CPEUM, Artículo 6°, Apartado A, párrafo final y fracción III",
-      "sabias_que": "El principio de máxima publicidad implica que en caso de duda sobre si una información debe reservarse, debe prevalecer la apertura y el acceso. La reforma de 2024 reorganizó las funciones del entonces INAI."
+      "categoria": "Derechos sociales",
+      "pregunta": "¿Qué derechos sociales reconoce el artículo 4° constitucional además de la igualdad de género?",
+      "respuesta": "El artículo 4° reconoce los derechos a la alimentación nutritiva, suficiente y de calidad; a la protección de la salud; a un medio ambiente sano; a la prohibición del maltrato animal; al agua potable; a una vivienda adecuada; a la identidad y registro de nacimiento; al interés superior de la niñez; a la cultura y al deporte; a pensiones no contributivas para adultos mayores y personas con discapacidad; a la movilidad segura; y a vivir una vida libre de violencias.",
+      "fuente": "CPEUM, Artículo 4°, múltiples párrafos",
+      "sabias_que": "El artículo 4° es uno de los más reformados de la Constitución: desde 2020 se han añadido pensiones no contributivas, derecho a la movilidad y vida libre de violencias, ampliando obligaciones presupuestales del Estado."
     },
     {
       "id": 12,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Libertades Fundamentales",
-      "pregunta": "¿Qué establece el artículo 7° de la CPEUM sobre la libertad de expresión y la censura previa?",
-      "respuesta": "Es inviolable la libertad de difundir opiniones, información e ideas por cualquier medio. Ninguna ley ni autoridad puede establecer la previa censura ni coartar la libertad de difusión; sus únicos límites son los del primer párrafo del artículo 6°. En ningún caso podrán secuestrarse los bienes utilizados para la difusión de información como instrumento del delito.",
-      "fuente": "CPEUM, Artículo 7°",
-      "sabias_que": "La prohibición de censura previa es una de las garantías más antiguas del constitucionalismo mexicano, que se remonta a la Constitución de 1857. La restricción indirecta a través de controles del papel de periódico o frecuencias también está expresamente prohibida."
+      "categoria": "Libertad de trabajo",
+      "pregunta": "¿En qué casos puede vedarse el ejercicio de la libertad de trabajo según el artículo 5° constitucional?",
+      "respuesta": "El ejercicio de la libertad de trabajo solo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo sino por resolución judicial.",
+      "fuente": "CPEUM, Artículo 5°, párrafo primero",
+      "sabias_que": "El artículo 5° también prohíbe cualquier contrato que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad de la persona, lo que incluye esquemas laborales abusivos."
     },
     {
       "id": 13,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Garantías Procesales",
-      "pregunta": "¿Qué establece el artículo 14 de la CPEUM sobre la retroactividad de la ley y el debido proceso?",
-      "respuesta": "A ninguna ley se dará efecto retroactivo en perjuicio de persona alguna. Nadie podrá ser privado de la libertad, propiedades, posesiones o derechos sino mediante juicio ante tribunales previamente establecidos, cumpliendo las formalidades esenciales del procedimiento y conforme a leyes expedidas con anterioridad al hecho. En juicios del orden criminal queda prohibido imponer penas por simple analogía.",
-      "fuente": "CPEUM, Artículo 14°, párrafos primero al tercero",
-      "sabias_que": "El principio de irretroactividad de la ley solo protege contra efectos perjudiciales; si la ley nueva es más favorable al gobernado puede aplicarse retroactivamente, según criterio jurisprudencial de la SCJN."
+      "categoria": "Acceso a información",
+      "pregunta": "¿Qué principios rigen el derecho de acceso a la información pública según el artículo 6°, Apartado A?",
+      "respuesta": "El derecho de acceso a la información se rige por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Toda la información en posesión de autoridades es pública y solo podrá reservarse temporalmente por razones de interés público y seguridad nacional.",
+      "fuente": "CPEUM, Artículo 6°, Apartado A, fracciones I y VIII",
+      "sabias_que": "El principio de máxima publicidad obliga a los sujetos obligados a documentar todo acto derivado de sus facultades, lo que directamente impacta la labor cotidiana de cualquier servidor público de la APF."
     },
     {
       "id": 14,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Garantías Procesales",
-      "pregunta": "¿Cuáles son los plazos máximos de retención por el Ministerio Público y de arraigo establecidos en el artículo 16 de la CPEUM?",
-      "respuesta": "Ningún indiciado podrá ser retenido por el Ministerio Público por más de 48 horas, plazo que puede duplicarse en casos de delincuencia organizada. El arraigo, decretado por la autoridad judicial a petición del Ministerio Público en delincuencia organizada, no podrá exceder 40 días, prorrogable hasta un máximo de 80 días. La orden de aprehensión solo puede librarla la autoridad judicial.",
-      "fuente": "CPEUM, Artículo 16°, párrafos octavo y décimo primero",
-      "sabias_que": "El arraigo es una figura muy debatida porque permite detener a una persona sin que se haya formulado acusación formal; organismos internacionales de derechos humanos han cuestionado su compatibilidad con el derecho internacional."
+      "categoria": "Libertad de expresión",
+      "pregunta": "¿Qué queda prohibido según el artículo 7° en materia de libertad de difusión?",
+      "respuesta": "Ninguna ley ni autoridad puede establecer la previa censura ni coartar la libertad de difusión. No se puede restringir este derecho por vías o medios indirectos, tales como abuso de controles oficiales, papel para periódicos, frecuencias radioeléctricas o tecnologías de información. En ningún caso podrán secuestrarse los bienes utilizados para la difusión de información como instrumento del delito.",
+      "fuente": "CPEUM, Artículo 7°, párrafos primero y segundo",
+      "sabias_que": "La inviolabilidad de la libertad de difusión aplica incluso a medios electrónicos y digitales, lo que fue expresamente incorporado en la reforma de 2013."
     },
     {
       "id": 15,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Proceso Penal",
-      "pregunta": "¿Qué principios rigen el proceso penal según el artículo 20 de la CPEUM?",
-      "respuesta": "El proceso penal será acusatorio y oral, y se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación. El juicio se celebrará ante un juez que no haya conocido el caso previamente; la carga de la prueba corresponde a la parte acusadora; cualquier prueba obtenida con violación de derechos fundamentales será nula; y el juez solo condenará cuando exista convicción de culpabilidad.",
-      "fuente": "CPEUM, Artículo 20°, párrafo primero y Apartado A",
-      "sabias_que": "El sistema acusatorio adversarial fue introducido por la reforma constitucional de 2008 y entró plenamente en vigor en 2016, reemplazando al sistema mixto inquisitivo que existía desde 1917."
+      "categoria": "Derecho de petición",
+      "pregunta": "¿Qué establece el artículo 8° sobre el derecho de petición de los ciudadanos?",
+      "respuesta": "Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa. En materia política solo podrán hacer uso de ese derecho los ciudadanos de la República. A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, con obligación de hacerlo conocer en breve término al peticionario.",
+      "fuente": "CPEUM, Artículo 8°",
+      "sabias_que": "El incumplimiento de este artículo es una de las causas más comunes de quejas ante la CNDH: todo servidor público debe dar respuesta escrita en tiempo, aunque la resolución no sea favorable al peticionario."
     },
     {
       "id": 16,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Proceso Penal",
-      "pregunta": "¿Cuáles son los derechos de la víctima u ofendido reconocidos en el artículo 20, Apartado C de la CPEUM?",
-      "respuesta": "La víctima tiene derecho a: recibir asesoría jurídica; coadyuvar con el Ministerio Público; recibir atención médica y psicológica de urgencia desde la comisión del delito; que se le repare el daño; resguardo de su identidad en casos de menores, violación, trata, secuestro o delincuencia organizada; solicitar medidas cautelares; e impugnar omisiones del Ministerio Público. El juzgador no podrá absolver al sentenciado de la reparación del daño si emitió sentencia condenatoria.",
-      "fuente": "CPEUM, Artículo 20°, Apartado C, fracciones I a VII",
-      "sabias_que": "Antes de la reforma de 2008, los derechos de las víctimas eran muy limitados. Su reconocimiento explícito en la Constitución marcó un cambio de paradigma al equipararlos en importancia a los derechos del imputado."
+      "categoria": "Garantías procesales",
+      "pregunta": "¿Qué establece el artículo 14 sobre la irretroactividad de la ley y el principio de legalidad?",
+      "respuesta": "A ninguna ley se dará efecto retroactivo en perjuicio de persona alguna. Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante tribunales previamente establecidos, cumpliendo las formalidades esenciales del procedimiento y conforme a leyes expedidas con anterioridad al hecho.",
+      "fuente": "CPEUM, Artículo 14, párrafos primero y segundo",
+      "sabias_que": "En los juicios criminales queda prohibido imponer pena por simple analogía, y en los civiles la sentencia debe fundarse en la letra de la ley o en los principios generales del derecho, lo que establece la jerarquía de fuentes en la APF."
     },
     {
       "id": 17,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Seguridad Pública",
-      "pregunta": "¿Qué principios rigen la actuación de las instituciones de seguridad pública según el artículo 21 de la CPEUM?",
-      "respuesta": "La actuación de las instituciones de seguridad pública se rige por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos. La seguridad pública es una función del Estado a cargo de la Federación, entidades federativas y municipios. Las instituciones de seguridad pública serán disciplinadas, profesionales y de carácter civil.",
-      "fuente": "CPEUM, Artículo 21°, párrafos noveno y décimo",
-      "sabias_que": "La reforma de septiembre de 2024 incorporó la perspectiva de género explícitamente entre los principios rectores de la seguridad pública y ratificó que las instituciones deben ser de carácter civil."
+      "categoria": "Garantías procesales",
+      "pregunta": "¿Qué plazo máximo establece el artículo 19 para la detención ante autoridad judicial sin auto de vinculación a proceso?",
+      "respuesta": "Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas a partir de que el indiciado sea puesto a disposición del juez, sin que se justifique con un auto de vinculación a proceso. El plazo podrá prorrogarse únicamente a petición del indiciado.",
+      "fuente": "CPEUM, Artículo 19, párrafo primero",
+      "sabias_que": "El Ministerio Público solo puede retener al indiciado hasta 48 horas; el plazo de 72 horas es el del juez. En casos de delincuencia organizada, el plazo del Ministerio Público se puede duplicar a 96 horas."
     },
     {
       "id": 18,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Seguridad Pública",
-      "pregunta": "¿Cuál es la naturaleza jurídica y la dependencia de la Guardia Nacional según el artículo 21 de la CPEUM?",
-      "respuesta": "La Guardia Nacional es una fuerza de seguridad pública, profesional, de carácter permanente, integrada por personal militar con formación policial, dependiente de la Secretaría del ramo de Defensa Nacional. Su objeto es ejecutar la Estrategia Nacional de Seguridad Pública, coordinar y colaborar con entidades federativas y municipios, y salvaguardar los bienes y recursos de la Nación.",
-      "fuente": "CPEUM, Artículo 21°, párrafo décimo segundo",
-      "sabias_que": "La adscripción de la Guardia Nacional a la Secretaría de Defensa Nacional fue el resultado de la reforma constitucional de septiembre de 2024, modificando su dependencia original de la Secretaría de Seguridad y Protección Ciudadana."
+      "categoria": "Proceso penal",
+      "pregunta": "¿Cuáles son los principios que rigen el proceso penal acusatorio según el artículo 20?",
+      "respuesta": "El proceso penal es acusatorio y oral, y se rige por los principios de publicidad, contradicción, concentración, continuidad e inmediación. Todo proceso tiene por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen.",
+      "fuente": "CPEUM, Artículo 20, párrafo primero y Apartado A, fracción I",
+      "sabias_que": "El sistema penal acusatorio entró en vigor en todo el país en 2016. Antes existía un sistema mixto inquisitorial que permitía juicios escritos y secretos; la transición modificó radicalmente la actuación de policías y ministerios públicos."
     },
     {
       "id": 19,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Penas Prohibidas",
-      "pregunta": "¿Qué penas prohíbe expresamente el artículo 22 de la CPEUM?",
-      "respuesta": "Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado. La extinción de dominio sobre bienes de origen ilícito no se considera confiscación.",
-      "fuente": "CPEUM, Artículo 22°, párrafo primero",
-      "sabias_que": "La pena de muerte fue abolida constitucionalmente desde 1917 para delitos del fuero común; la reforma de 2005 la eliminó totalmente del sistema jurídico mexicano incluyendo el fuero militar."
+      "categoria": "Penas prohibidas",
+      "pregunta": "¿Qué penas quedan prohibidas por el artículo 22 de la CPEUM?",
+      "respuesta": "Quedan prohibidas las penas de muerte, mutilación, infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.",
+      "fuente": "CPEUM, Artículo 22, párrafo primero",
+      "sabias_que": "La extinción de dominio, que puede privar a alguien de sus bienes sin condena previa, no se considera confiscación porque es un procedimiento civil autónomo orientado a bienes de procedencia ilícita."
     },
     {
       "id": 20,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Nacionalidad",
-      "pregunta": "¿Cómo se adquiere la nacionalidad mexicana por nacimiento según el artículo 30 de la CPEUM?",
-      "respuesta": "Son mexicanos por nacimiento: los que nazcan en territorio de la República, independientemente de la nacionalidad de sus padres; los que nazcan en el extranjero hijos de padres mexicanos o de madre o padre mexicano; los nacidos en el extranjero hijos de padres mexicanos por naturalización; y los nacidos a bordo de embarcaciones o aeronaves mexicanas de guerra o mercantes.",
-      "fuente": "CPEUM, Artículo 30°, Apartado A, fracciones I a IV",
-      "sabias_que": "México aplica tanto el principio de jus soli (nacimiento en territorio) como el jus sanguinis (filiación), lo que permite que mexicanos nacidos en el extranjero transmitan la nacionalidad a sus hijos."
+      "categoria": "Nacionalidad mexicana",
+      "pregunta": "¿Cuáles son las formas de adquirir la nacionalidad mexicana por nacimiento según el artículo 30?",
+      "respuesta": "Son mexicanos por nacimiento quienes nazcan en territorio de la República independientemente de la nacionalidad de sus padres; quienes nazcan en el extranjero siendo hijos de padres mexicanos; quienes nazcan en el extranjero siendo hijos de padres mexicanos por naturalización; y quienes nazcan a bordo de embarcaciones o aeronaves mexicanas de guerra o mercantes.",
+      "fuente": "CPEUM, Artículo 30, Apartado A, fracciones I a IV",
+      "sabias_que": "Ningún mexicano por nacimiento puede ser privado de su nacionalidad, según el artículo 37, Apartado A. La nacionalidad por naturalización sí puede perderse, entre otros casos, por residir cinco años continuos en el extranjero."
     },
     {
       "id": 21,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Nacionalidad",
-      "pregunta": "¿En qué casos se pierde la nacionalidad mexicana por naturalización según el artículo 37 de la CPEUM?",
-      "respuesta": "La nacionalidad mexicana por naturalización se pierde por: adquisición voluntaria de una nacionalidad extranjera, hacerse pasar como extranjero en instrumento público, usar pasaporte extranjero, o aceptar títulos nobiliarios que impliquen sumisión a un Estado extranjero; y por residir durante cinco años continuos en el extranjero. En cambio, ningún mexicano por nacimiento podrá ser privado de su nacionalidad.",
-      "fuente": "CPEUM, Artículo 37°, Apartados A y B",
-      "sabias_que": "La irrevocabilidad de la nacionalidad por nacimiento fue establecida en la reforma de 1997, que también eliminó la pérdida automática al adquirir otra nacionalidad, permitiendo la doble nacionalidad para mexicanos de origen."
+      "categoria": "Ciudadanía",
+      "pregunta": "¿Cuáles son los requisitos para ser ciudadano mexicano según el artículo 34?",
+      "respuesta": "Son ciudadanos de la República los varones y mujeres que, teniendo la calidad de mexicanos, reúnan además haber cumplido 18 años y tener un modo honesto de vivir.",
+      "fuente": "CPEUM, Artículo 34, fracciones I y II",
+      "sabias_que": "La ciudadanía da acceso a derechos como votar, ser votado en condiciones de paridad, iniciar leyes y ser nombrado para cargos en el servicio público, lo que directamente vincula ciudadanía con acceso al SPC."
     },
     {
       "id": 22,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Ciudadanía",
-      "pregunta": "¿Cuáles son los requisitos para ser ciudadano mexicano según el artículo 34 de la CPEUM?",
-      "respuesta": "Son ciudadanos de la República los varones y mujeres que, teniendo la calidad de mexicanos, hayan cumplido 18 años y tengan un modo honesto de vivir. La ciudadanía confiere derechos como votar y ser votado en condiciones de paridad, asociarse políticamente, iniciar leyes, votar en consultas populares y participar en procesos de revocación de mandato.",
-      "fuente": "CPEUM, Artículo 34°, fracciones I y II",
-      "sabias_que": "La edad para ser ciudadano se redujo de 21 a 18 años mediante reforma de 1969. La reforma de 1953 otorgó el voto a las mujeres en elecciones federales, siendo este artículo su fundamento constitucional."
+      "categoria": "Derechos ciudadanos",
+      "pregunta": "¿Qué derechos contempla el artículo 35 de la CPEUM para la ciudadanía?",
+      "respuesta": "Son derechos de la ciudadanía: votar en las elecciones populares; poder ser votada en condiciones de paridad para todos los cargos de elección popular; asociarse para tomar parte en asuntos políticos; tomar las armas en la Fuerza Armada; ejercer el derecho de petición en negocios; poder ser nombrado para cualquier empleo o comisión del servicio público; iniciar leyes; votar en consultas populares; y participar en procesos de revocación de mandato.",
+      "fuente": "CPEUM, Artículo 35, fracciones I a IX",
+      "sabias_que": "La fracción VI, que permite a los ciudadanos ser nombrados para empleos del servicio público, es la base constitucional del Sistema del Servicio Profesional de Carrera, que requiere además las calidades que establezca la ley."
     },
     {
       "id": 23,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Ciudadanía",
-      "pregunta": "¿En qué casos se suspenden los derechos ciudadanos según el artículo 38 de la CPEUM?",
-      "respuesta": "Los derechos ciudadanos se suspenden por: incumplimiento injustificado de obligaciones del artículo 36; estar sujeto a proceso criminal por delito con pena corporal; durante la extinción de una pena corporal; por vagancia o ebriedad consuetudinaria; por estar prófugo de la justicia; por sentencia ejecutoria que imponga esa suspensión; y por sentencia firme por delitos intencionales contra la vida, integridad corporal, libertad sexual, violencia familiar o política de género.",
-      "fuente": "CPEUM, Artículo 38°, fracciones I a VII",
-      "sabias_que": "La fracción VII fue adicionada en 2023 e incorpora como causal de suspensión la sentencia por violencia política contra las mujeres en razón de género, así como ser declarado deudor alimentario moroso."
+      "categoria": "Consulta popular",
+      "pregunta": "¿Cuándo es vinculatorio el resultado de una consulta popular según el artículo 35, fracción VIII?",
+      "respuesta": "El resultado de una consulta popular es vinculatorio para los poderes Ejecutivo y Legislativo federales y las autoridades competentes cuando la participación total corresponda al menos al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores.",
+      "fuente": "CPEUM, Artículo 35, fracción VIII, apartado 2°",
+      "sabias_que": "Las consultas populares se realizan el primer domingo de agosto y no pueden versar sobre derechos humanos, materia electoral, sistema financiero, seguridad nacional ni permanencia de servidores públicos de elección popular."
     },
     {
       "id": 24,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Soberanía Nacional",
-      "pregunta": "¿Cómo define el artículo 39 de la CPEUM la soberanía nacional y quién la ejerce?",
-      "respuesta": "La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder público dimana del pueblo y se instituye para su beneficio. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar la forma de su gobierno. Su ejercicio se realiza a través de los Poderes de la Unión y de los poderes de los estados y la Ciudad de México.",
-      "fuente": "CPEUM, Artículo 39°",
-      "sabias_que": "Este artículo es la base del principio democrático-republicano del constitucionalismo mexicano, cuya formulación original data de 1857 siguiendo la tradición rousseauniana de la soberanía popular."
+      "categoria": "Soberanía nacional",
+      "pregunta": "¿Qué establece el artículo 39 sobre la soberanía nacional y el derecho del pueblo?",
+      "respuesta": "La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder público dimana del pueblo y se instituye para beneficio de éste. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar la forma de su gobierno.",
+      "fuente": "CPEUM, Artículo 39",
+      "sabias_que": "Este artículo es el fundamento filosófico de toda la organización del Estado mexicano: implica que la legitimidad de cualquier autoridad, incluyendo la APF, proviene del pueblo y debe ejercerse en su beneficio."
     },
     {
       "id": 25,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Forma de Gobierno",
-      "pregunta": "¿Cuál es la forma de gobierno que establece el artículo 40 de la CPEUM?",
-      "respuesta": "Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, laica y federal, compuesta por Estados libres y soberanos en todo lo concerniente a su régimen interior, y por la Ciudad de México, todos unidos en una federación establecida según los principios de la ley fundamental.",
-      "fuente": "CPEUM, Artículo 40°",
-      "sabias_que": "El carácter laico de la República fue incorporado mediante reforma de 2012. Este artículo es uno de los que no puede ser objeto de consulta popular, ya que sus principios son inmodificables por esa vía según el artículo 35 fracción VIII."
+      "categoria": "Forma de gobierno",
+      "pregunta": "¿Qué forma de gobierno establece el artículo 40 de la Constitución?",
+      "respuesta": "Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, laica y federal, compuesta por Estados libres y soberanos en todo lo concerniente a su régimen interior, y por la Ciudad de México, unidos en una federación establecida según los principios de esta ley fundamental.",
+      "fuente": "CPEUM, Artículo 40",
+      "sabias_que": "El laicismo del Estado, añadido expresamente en 2012, impide que cualquier decisión gubernamental o política pública se funde en principios religiosos, lo que orienta la actuación neutral y no confesional de los servidores públicos."
     },
     {
       "id": 26,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "División de Poderes",
-      "pregunta": "¿Cómo se divide el Supremo Poder de la Federación según el artículo 49 de la CPEUM y qué prohibiciones establece?",
-      "respuesta": "El Supremo Poder de la Federación se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo en caso de facultades extraordinarias al Ejecutivo conforme al artículo 29. En ningún otro caso, salvo el artículo 131 segundo párrafo, se otorgarán facultades extraordinarias para legislar.",
-      "fuente": "CPEUM, Artículo 49°",
-      "sabias_que": "El principio de división de poderes es un pilar del constitucionalismo liberal; su violación fue históricamente frecuente durante el Porfiriato y fue reforzado en la Constitución de 1917 con mayores limitaciones al Ejecutivo."
+      "categoria": "Partidos políticos",
+      "pregunta": "¿Qué consecuencia tiene para un partido político no obtener el tres por ciento de la votación válida, según el artículo 41?",
+      "respuesta": "El partido político nacional que no obtenga al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o de las Cámaras del Congreso de la Unión, le será cancelado el registro.",
+      "fuente": "CPEUM, Artículo 41, fracción I, párrafo cuarto",
+      "sabias_que": "El financiamiento ordinario de partidos se calcula multiplicando el padrón electoral por el 65 % del valor diario de la UMA: el 30 % se distribuye igualitariamente y el 70 % en proporción a la votación obtenida."
     },
     {
       "id": 27,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Poder Legislativo",
-      "pregunta": "¿En qué consiste la integración del Poder Legislativo según los artículos 50 y 52 de la CPEUM?",
-      "respuesta": "El Poder Legislativo se deposita en un Congreso General dividido en dos cámaras: una de Diputados y una de Senadores. La Cámara de Diputados se integra por 500 diputados: 300 electos por el principio de votación mayoritaria relativa en distritos uninominales, y 200 electos por el principio de representación proporcional mediante el Sistema de Listas Regionales en cinco circunscripciones plurinominales.",
-      "fuente": "CPEUM, Artículos 50° y 52°",
-      "sabias_que": "El sistema mixto para la Cámara de Diputados fue introducido en 1977 con la reforma política impulsada por Jesús Reyes Heroles, que buscó dar representación a minorías y partidos de oposición."
+      "categoria": "Territorio nacional",
+      "pregunta": "¿Qué comprende el territorio nacional según el artículo 42 de la CPEUM?",
+      "respuesta": "El territorio nacional comprende el de las partes integrantes de la Federación; el de las islas, incluyendo arrecifes y cayos en mares adyacentes; el de las islas de Guadalupe y Revillagigedo en el Océano Pacífico; la plataforma continental y zócalos submarinos; las aguas de los mares territoriales y marítimas interiores; y el espacio situado sobre el territorio nacional.",
+      "fuente": "CPEUM, Artículo 42, fracciones I a VI",
+      "sabias_que": "México ejerce derechos de soberanía en una Zona Económica Exclusiva de 200 millas náuticas medidas desde la línea de base, según el artículo 27, lo que es relevante para la regulación pesquera, minera y energética en aguas nacionales."
     },
     {
       "id": 28,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Poder Legislativo",
-      "pregunta": "¿Cómo se integra la Cámara de Senadores según el artículo 56 de la CPEUM?",
-      "respuesta": "La Cámara de Senadores se integra por 128 senadores: en cada Estado y en la Ciudad de México se eligen 2 por mayoría relativa y 1 por primera minoría. Las 32 senadurías restantes se eligen por representación proporcional mediante listas en una sola circunscripción plurinominal nacional. La Cámara se renueva en su totalidad cada seis años.",
-      "fuente": "CPEUM, Artículo 56°",
-      "sabias_que": "La senaduría de primera minoría garantiza representación al principal partido opositor en cada entidad, siendo un mecanismo de pluralismo político que no existe en muchos países federales."
+      "categoria": "División de poderes",
+      "pregunta": "¿Qué establece el artículo 49 sobre la división del Supremo Poder de la Federación?",
+      "respuesta": "El Supremo Poder de la Federación se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias al Ejecutivo conforme al artículo 29. En ningún otro caso se otorgarán facultades extraordinarias para legislar.",
+      "fuente": "CPEUM, Artículo 49",
+      "sabias_que": "La excepción del artículo 29 permite al Ejecutivo legislar solo en estado de emergencia con aprobación del Congreso, pero jamás en materia de derechos humanos que no pueden restringirse bajo ninguna circunstancia."
     },
     {
       "id": 29,
       "subtema": "1. Introducción a la Administración Pública Federal",
       "categoria": "Poder Legislativo",
-      "pregunta": "¿Cuáles son los requisitos para ser diputado federal según el artículo 55 de la CPEUM?",
-      "respuesta": "Para ser diputado se requiere: ser ciudadano mexicano por nacimiento en ejercicio de sus derechos; tener 18 años cumplidos el día de la elección; ser originario o vecino con residencia efectiva de más de 6 meses en la entidad federativa; no estar en servicio activo en el Ejército, Armada o Guardia Nacional ni tener mando policial 90 días antes; no ser titular de organismos autónomos ni Secretario de Estado sin separarse 90 días antes; y no ser ministro de algún culto religioso.",
-      "fuente": "CPEUM, Artículo 55°, fracciones I a VII",
-      "sabias_que": "La edad mínima de 18 años para ser diputado fue establecida en 2023, equiparando la edad mínima de elegibilidad con la mayoría de edad. Antes era 21 años para diputados."
+      "pregunta": "¿En qué órgano se deposita el Poder Legislativo según el artículo 50 constitucional?",
+      "respuesta": "El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general que se dividirá en dos Cámaras: una de diputados y otra de senadores.",
+      "fuente": "CPEUM, Artículo 50",
+      "sabias_que": "El bicameralismo mexicano tiene raíces históricas en la Constitución de 1824; la Cámara de Diputados representa a la nación en general, mientras que el Senado representa a las entidades federativas en igualdad de condición."
     },
     {
       "id": 30,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Poder Legislativo",
-      "pregunta": "¿Cuál es la diferencia entre los requisitos de edad para diputado y senador según los artículos 55 y 58 de la CPEUM?",
-      "respuesta": "Para ser diputado federal se requieren 18 años cumplidos el día de la elección, mientras que para ser senador se requieren 25 años cumplidos en esa misma fecha. Los demás requisitos para senador son los mismos que para diputado. La Cámara de Diputados se renueva cada tres años y el Senado cada seis años.",
-      "fuente": "CPEUM, Artículos 55° fracción II y 58°",
-      "sabias_que": "La distinción de edades refleja que el Senado fue concebido como una cámara de mayor madurez y experiencia política, siguiendo el modelo del Senado norteamericano donde se requieren 30 años."
+      "categoria": "Cámara de Diputados",
+      "pregunta": "¿Cómo se integra la Cámara de Diputados según el artículo 52 de la CPEUM?",
+      "respuesta": "La Cámara de Diputados estará integrada por 300 diputadas y diputados electos según el principio de votación mayoritaria relativa mediante el sistema de distritos electorales uninominales, así como por 200 diputadas y diputados electos según el principio de representación proporcional mediante el sistema de listas regionales, votadas en circunscripciones plurinominales.",
+      "fuente": "CPEUM, Artículo 52",
+      "sabias_que": "El sistema mixto (300 mayoría + 200 representación proporcional) fue establecido en 1977 como apertura democrática. Hoy ningún partido puede tener más de 300 diputados por ambos principios ni superar en 8 puntos su porcentaje de votación."
     },
     {
       "id": 31,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Poder Legislativo",
-      "pregunta": "¿Cuántos periodos consecutivos pueden ser reelectos los diputados y senadores según el artículo 59 de la CPEUM?",
-      "respuesta": "Los senadores pueden ser electos hasta por dos periodos consecutivos y los diputados hasta por cuatro periodos consecutivos. La postulación solo puede ser realizada por el mismo partido o por cualquiera de los partidos de la coalición que los hubiera postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.",
-      "fuente": "CPEUM, Artículo 59°",
-      "sabias_que": "La reelección legislativa fue reintroducida en 2014 tras 81 años de prohibición absoluta (desde 1933). Su objetivo fue fortalecer la carrera parlamentaria y la rendición de cuentas de los legisladores."
+      "categoria": "Requisitos diputado",
+      "pregunta": "¿Cuáles son los principales requisitos para ser diputado según el artículo 55 de la CPEUM?",
+      "respuesta": "Para ser diputado se requiere ser ciudadano mexicano por nacimiento en ejercicio de sus derechos; tener 18 años cumplidos el día de la elección; ser originario o vecino con residencia efectiva de más de seis meses de la entidad donde se haga la elección; no estar en servicio activo en el Ejército, Fuerza Aérea, Armada o Guardia Nacional al menos 90 días antes de la elección; no ser Secretario de Estado ni titular de organismos autónomos sin separarse 90 días antes; y no ser ministro de culto religioso.",
+      "fuente": "CPEUM, Artículo 55, fracciones I a VII",
+      "sabias_que": "La edad mínima para diputado se redujo de 21 a 18 años en 2023, igualándola con la mayoría de edad ciudadana; para senador sigue siendo de 25 años cumplidos el día de la elección."
     },
     {
       "id": 32,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Poder Legislativo",
-      "pregunta": "¿Qué fuero protege a los diputados y senadores según el artículo 61 de la CPEUM?",
-      "respuesta": "Los diputados y senadores son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas. El Presidente de cada Cámara velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde se reúnan a sesionar.",
-      "fuente": "CPEUM, Artículo 61°",
-      "sabias_que": "Este fuero de carácter absoluto protege solo las opiniones vertidas en el ejercicio del cargo; no protege a los legisladores de actos delictivos ajenos a sus funciones parlamentarias, para lo cual existe el procedimiento de declaración de procedencia."
+      "categoria": "Cámara de Senadores",
+      "pregunta": "¿Cómo se integra la Cámara de Senadores y cada cuántos años se renueva según el artículo 56?",
+      "respuesta": "La Cámara de Senadores se integra por 128 senadoras y senadores: en cada Estado y en la Ciudad de México, dos son elegidos por mayoría relativa y uno es asignado a la primera minoría; las 32 senadurías restantes son elegidas por representación proporcional en una circunscripción plurinominal nacional. La Cámara se renueva en su totalidad cada seis años.",
+      "fuente": "CPEUM, Artículo 56, párrafos primero y tercero",
+      "sabias_que": "El senador de primera minoría se asigna al partido que ocupó el segundo lugar en la entidad, no al candidato más votado de ese partido; esto garantiza representación a la segunda fuerza política local."
     },
     {
       "id": 33,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Sesiones del Congreso",
-      "pregunta": "¿Cuándo inician los dos periodos de sesiones ordinarias del Congreso según el artículo 65 de la CPEUM?",
-      "respuesta": "El Congreso se reúne a partir del 1° de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, y a partir del 1° de febrero para un segundo periodo. El primer periodo no podrá prolongarse más allá del 15 de diciembre (o 31 de diciembre cuando el Presidente inicia su encargo). El segundo periodo no podrá extenderse más allá del 30 de abril.",
-      "fuente": "CPEUM, Artículos 65° y 66°",
-      "sabias_que": "Antes de la reforma de 1986, el primer periodo iniciaba el 1° de septiembre y el segundo el 1° de abril. La modificación de 1993 fijó el 1° de febrero como inicio del segundo periodo, ampliando el tiempo de trabajo legislativo."
+      "categoria": "Reelección legislativa",
+      "pregunta": "¿Qué límites establece el artículo 59 respecto a la reelección de senadores y diputados?",
+      "respuesta": "Los senadores podrán ser electos hasta por dos periodos consecutivos y los diputados al Congreso de la Unión hasta por cuatro periodos consecutivos. La postulación solo podrá realizarse por el mismo partido o por cualquiera de los partidos de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.",
+      "fuente": "CPEUM, Artículo 59",
+      "sabias_que": "La reelección legislativa fue reintroducida en 2014 tras 80 años de prohibición absoluta. El período de senador es de 6 años y el de diputado de 3, por lo que un senador puede acumular hasta 12 años y un diputado hasta 12 años consecutivos."
     },
     {
       "id": 34,
       "subtema": "1. Introducción a la Administración Pública Federal",
       "categoria": "Sesiones del Congreso",
-      "pregunta": "¿Qué establece el artículo 69 de la CPEUM sobre el informe presidencial ante el Congreso?",
-      "respuesta": "En la apertura de sesiones ordinarias del primer periodo, el Presidente de la República presentará un informe por escrito sobre el estado general de la administración pública. Cada Cámara puede solicitar al Presidente ampliar la información o citar a Secretarios de Estado. En el primer año de mandato, en la apertura del segundo periodo, el Presidente debe presentar ante el Senado la Estrategia Nacional de Seguridad Pública para su aprobación.",
-      "fuente": "CPEUM, Artículo 69°, párrafos primero al tercero",
-      "sabias_que": "La Estrategia Nacional de Seguridad Pública requiere aprobación del Senado solo en el primer año del mandato presidencial; la presentación anual de avances es obligatoria pero no sujeta a aprobación formal."
+      "pregunta": "¿Cuándo se reúne el Congreso para sus períodos ordinarios de sesiones según el artículo 65?",
+      "respuesta": "El Congreso se reunirá a partir del 1° de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, y a partir del 1° de febrero para celebrar un segundo periodo de sesiones ordinarias. El primer periodo no podrá prolongarse sino hasta el 15 de diciembre, y el segundo no más allá del 30 de abril.",
+      "fuente": "CPEUM, Artículos 65 y 66",
+      "sabias_que": "En el año en que el Presidente inicia su encargo (1° de octubre desde la reforma de 2024), el primer periodo puede extenderse hasta el 31 de diciembre. Fuera de los periodos ordinarios, solo puede sesionar en extraordinario convocado por la Comisión Permanente."
     },
     {
       "id": 35,
       "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Consulta Popular",
-      "pregunta": "¿Qué porcentaje de participación ciudadana se requiere para que los resultados de una consulta popular sean vinculatorios según el artículo 35 de la CPEUM?",
-      "respuesta": "El resultado de la consulta popular será vinculatorio cuando la participación total corresponda al menos al 40% de los ciudadanos inscritos en la lista nominal de electores. Las consultas populares se realizan el primer domingo de agosto y son convocadas por el Congreso a petición del Presidente, del 33% de los integrantes de cualquier Cámara, o del 2% de ciudadanos inscritos en la lista nominal.",
-      "fuente": "CPEUM, Artículo 35°, fracción VIII, apartados 1o. y 2o.",
-      "sabias_que": "Las consultas populares no pueden versar sobre derechos humanos, materia electoral, sistema financiero, seguridad nacional, ni la permanencia en el cargo de servidores públicos electos."
-    },
-    {
-      "id": 36,
-      "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Revocación de Mandato",
-      "pregunta": "¿Qué porcentaje mínimo de ciudadanos de la lista nominal se requiere para solicitar la revocación de mandato del Presidente de la República según el artículo 35 de la CPEUM?",
-      "respuesta": "Para solicitar la revocación de mandato presidencial se requiere un número equivalente al menos al 3% de los inscritos en la lista nominal de electores, siempre que correspondan a por lo menos 17 entidades federativas y representen como mínimo el 3% de la lista nominal de cada una. La revocación solo procede por mayoría absoluta con participación mínima del 40%.",
-      "fuente": "CPEUM, Artículo 35°, fracción IX, apartados 1o. y 4o.",
-      "sabias_que": "La revocación de mandato se puede solicitar en una sola ocasión, durante los tres meses posteriores a la conclusión del tercer año del período constitucional, lo que limita su uso al segundo tramo del sexenio."
-    },
-    {
-      "id": 37,
-      "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Partidos Políticos",
-      "pregunta": "¿Qué porcentaje mínimo de votación debe obtener un partido político nacional para mantener su registro según el artículo 41 de la CPEUM?",
-      "respuesta": "El partido político nacional que no obtenga al menos el 3% del total de la votación válida emitida en cualquiera de las elecciones para la renovación del Poder Ejecutivo o de las Cámaras del Congreso de la Unión, le será cancelado el registro. Los partidos políticos son entidades de interés público y solo los ciudadanos pueden formarlos y afiliarse individualmente a ellos.",
-      "fuente": "CPEUM, Artículo 41°, fracción I, párrafo cuarto",
-      "sabias_que": "El umbral del 3% fue establecido en 2014 con la reforma electoral, reduciendo el porcentaje anterior del 2%. Este requisito busca evitar la fragmentación excesiva del sistema de partidos."
-    },
-    {
-      "id": 38,
-      "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Sistema Electoral",
-      "pregunta": "¿Qué límites establece el artículo 54 de la CPEUM para la asignación de diputados por representación proporcional?",
-      "respuesta": "Ningún partido político podrá contar con más de 300 diputados por ambos principios. Además, ningún partido podrá tener un porcentaje de diputados que exceda en 8 puntos su porcentaje de votación nacional emitida. Para acceder a la representación proporcional se requiere haber obtenido al menos el 3% del total de la votación válida.",
-      "fuente": "CPEUM, Artículo 54°, fracciones II, IV y V",
-      "sabias_que": "El límite de 8 puntos porcentuales busca evitar el fenómeno de sobrerrepresentación de los partidos mayoritarios, aunque en la práctica han existido debates sobre cómo calcular exactamente este límite en elecciones complejas."
-    },
-    {
-      "id": 39,
-      "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Propiedad Nacional",
-      "pregunta": "¿A quién corresponde originariamente la propiedad de tierras y aguas según el artículo 27 de la CPEUM y qué principio rige los recursos estratégicos?",
-      "respuesta": "La propiedad de las tierras y aguas dentro del territorio nacional corresponde originariamente a la Nación, que tiene el derecho de transmitir el dominio a particulares. El dominio de la Nación sobre recursos como petróleo, hidrocarburos, minerales radiactivos y litio es inalienable e imprescriptible; para estos no se otorgarán concesiones. La zona económica exclusiva se extiende a 200 millas náuticas.",
-      "fuente": "CPEUM, Artículo 27°, párrafos primero, quinto y octavo",
-      "sabias_que": "La inalienabilidad del dominio sobre los hidrocarburos fue reforzada en la reforma de octubre de 2024, que también reestableció el principio de que la empresa pública del Estado tiene prevalencia en el sector eléctrico."
-    },
-    {
-      "id": 40,
-      "subtema": "1. Introducción a la Administración Pública Federal",
-      "categoria": "Monopolios del Estado",
-      "pregunta": "¿Qué áreas estratégicas son exclusivas del Estado según el artículo 28 de la CPEUM y cuáles no se consideran monopolios?",
-      "respuesta": "No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva en: correos, telégrafos y radiotelegrafía; minerales radiactivos, litio y generación de energía nuclear; servicio de Internet del Estado; planeación y control del sistema eléctrico nacional; servicio público de transmisión y distribución de energía eléctrica; exploración y extracción de petróleo e hidrocarburos; y acuñación de moneda y emisión de billetes por el banco central.",
-      "fuente": "CPEUM, Artículo 28°, párrafos cuarto y décimo",
-      "sabias_que": "La incorporación explícita del litio como área estratégica exclusiva del Estado fue introducida por la reforma de 2024. México posee las mayores reservas de litio en América Latina, lo que confiere a esta disposición una enorme relevancia geopolítica y económica."
+      "categoria": "Informe presidencial",
+      "pregunta": "¿Qué establece el artículo 69 sobre el informe del Presidente de la República al Congreso?",
+      "respuesta": "En la apertura de sesiones ordinarias del primer periodo de cada año, el Presidente presentará un informe escrito sobre el estado general de la administración pública. Cada Cámara podrá solicitar ampliar la información mediante preguntas por escrito y citar a secretarios de Estado y directores de entidades paraestatales. En el primer año de mandato, en la apertura del segundo periodo, presentará ante el Senado la Estrategia Nacional de Seguridad Pública.",
+      "fuente": "CPEUM, Artículo 69, párrafos primero, segundo y tercero",
+      "sabias_que": "Hasta 2008, el Presidente acudía en persona a leer su informe; hoy lo presenta por escrito. Este cambio buscó fortalecer el control parlamentario al permitir a las Cámaras analizar y cuestionar directamente a los titulares de las dependencias."
     }
   ]
 }
