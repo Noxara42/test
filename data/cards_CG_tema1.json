@@ -1381,6 +1381,321 @@
       "respuesta": "La persona que aduzca ser titular de un derecho o de un interés legítimo individual o colectivo y considere que un acto viola derechos reconocidos por la Constitución.",
       "fuente": "CPEUM, Artículo 107, fracción I",
       "sabias_que": "La reforma de 2011 amplió la procedencia del amparo al interés legítimo, no sólo al derecho subjetivo."
+    },
+    {
+      "id": 154,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Organización APF",
+      "pregunta": "¿Qué establece la Ley Orgánica respecto a la Administración Pública Federal?",
+      "respuesta": "La Ley Orgánica de la Administración Pública Federal establece las bases de organización de la Administración Pública Federal centralizada y paraestatal.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 1",
+      "sabias_que": "La LOAPF es la norma que distribuye las funciones administrativas del Poder Ejecutivo Federal."
+    },
+    {
+      "id": 155,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "APF Centralizada",
+      "pregunta": "¿Qué órganos integran la Administración Pública Centralizada?",
+      "respuesta": "La Administración Pública Centralizada está integrada por la Oficina de la Presidencia de la República, las Secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los Órganos Reguladores Coordinados.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 1",
+      "sabias_que": "Los Órganos Reguladores Coordinados en Materia Energética forman parte de la administración centralizada desde la reforma energética."
+    },
+    {
+      "id": 156,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "APF Paraestatal",
+      "pregunta": "¿Qué entidades conforman la Administración Pública Paraestatal?",
+      "respuesta": "La integran los organismos descentralizados, empresas de participación estatal, instituciones nacionales de crédito, organizaciones auxiliares nacionales de crédito, instituciones nacionales de seguros y de fianzas y los fideicomisos.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 1",
+      "sabias_que": "La administración paraestatal realiza funciones públicas con personalidad jurídica propia."
+    },
+    {
+      "id": 157,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Dependencias",
+      "pregunta": "¿Cuáles son las dependencias de la Administración Pública Centralizada previstas en la Ley?",
+      "respuesta": "Son las Secretarías de Estado, la Consejería Jurídica y los Órganos Reguladores Coordinados en Materia Energética.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 2",
+      "sabias_que": "Estas dependencias auxilian directamente al Presidente en el despacho de los asuntos administrativos."
+    },
+    {
+      "id": 158,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Consejería Jurídica",
+      "pregunta": "¿Quién nombra y remueve al Consejero Jurídico del Ejecutivo Federal?",
+      "respuesta": "El Consejero Jurídico depende directamente del Presidente de la República y es nombrado y removido libremente por éste.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 4",
+      "sabias_que": "La Consejería Jurídica sustituyó a la antigua figura de la Consejería Legal de la Presidencia."
+    },
+    {
+      "id": 159,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Consejería Jurídica",
+      "pregunta": "¿Qué requisitos se exigen para ser Consejero Jurídico del Ejecutivo Federal?",
+      "respuesta": "Se deben cumplir los mismos requisitos establecidos constitucionalmente para ocupar el cargo de Fiscal General de la República.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 4",
+      "sabias_que": "La equiparación busca garantizar un alto perfil técnico y jurídico para el cargo."
+    },
+    {
+      "id": 160,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Secretarías",
+      "pregunta": "¿Existe jerarquía entre las Secretarías de Estado?",
+      "respuesta": "No. Todas las Secretarías de Estado tienen igual rango y entre ellas no existe preeminencia alguna.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 10",
+      "sabias_que": "La Secretaría de Gobernación coordina acciones del Ejecutivo por acuerdo presidencial, pero no es jerárquicamente superior."
+    },
+    {
+      "id": 161,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Gobernación",
+      "pregunta": "¿Qué función de coordinación corresponde a la Secretaría de Gobernación?",
+      "respuesta": "Por acuerdo del Presidente, coordina las acciones de la Administración Pública Federal para cumplir sus acuerdos y órdenes.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 10",
+      "sabias_que": "Esta facultad convierte a Gobernación en el principal órgano de articulación política interna del Ejecutivo."
+    },
+    {
+      "id": 162,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Facultades",
+      "pregunta": "¿Cómo ejercen su competencia los titulares de las Secretarías de Estado?",
+      "respuesta": "Ejercen las funciones de su competencia por acuerdo del Presidente de la República.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 11",
+      "sabias_que": "El principio refleja la unidad del Poder Ejecutivo Federal."
+    },
+    {
+      "id": 163,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Normatividad",
+      "pregunta": "¿Qué proyectos debe formular cada Secretaría respecto de su competencia?",
+      "respuesta": "Debe formular los proyectos de leyes, reglamentos, decretos, acuerdos y órdenes del Presidente de la República relacionados con su ámbito de competencia.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 12",
+      "sabias_que": "Las Secretarías son las principales generadoras de iniciativas normativas del Ejecutivo."
+    },
+    {
+      "id": 164,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Refrendo",
+      "pregunta": "¿Qué requisito de validez tienen los reglamentos, decretos y acuerdos presidenciales?",
+      "respuesta": "Deben estar firmados por el Secretario de Estado competente y, cuando involucren a varias Secretarías, ser refrendados por todos los titulares correspondientes.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 13",
+      "sabias_que": "El refrendo implica corresponsabilidad política y administrativa del Secretario."
+    },
+    {
+      "id": 165,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Refrendo",
+      "pregunta": "¿Quién refrenda los decretos promulgatorios de leyes expedidas por el Congreso?",
+      "respuesta": "Únicamente el titular de la Secretaría de Gobernación.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 13",
+      "sabias_que": "Es una excepción expresa a la regla general del refrendo múltiple."
+    },
+    {
+      "id": 166,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Delegación",
+      "pregunta": "¿Pueden los Secretarios de Estado delegar sus facultades?",
+      "respuesta": "Sí. Pueden delegar facultades en sus funcionarios subordinados, salvo aquellas que por ley o reglamento deban ejercer personalmente.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 16",
+      "sabias_que": "La delegación permite agilizar la operación administrativa sin perder la responsabilidad institucional."
+    },
+    {
+      "id": 167,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Publicidad",
+      "pregunta": "¿Qué debe hacerse con los acuerdos de delegación de facultades?",
+      "respuesta": "Los acuerdos mediante los cuales se deleguen facultades o se adscriban unidades administrativas deben publicarse en el Diario Oficial de la Federación.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 16",
+      "sabias_que": "La publicación garantiza certeza jurídica y publicidad administrativa."
+    },
+    {
+      "id": 168,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Reglamentos",
+      "pregunta": "¿Quién expide los reglamentos interiores de las Secretarías de Estado?",
+      "respuesta": "Los reglamentos interiores de cada Secretaría de Estado son expedidos por el Presidente de la República.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 18",
+      "sabias_que": "El reglamento interior distribuye atribuciones entre las unidades administrativas."
+    },
+    {
+      "id": 169,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Manuales",
+      "pregunta": "¿Quién expide los manuales de organización, procedimientos y servicios al público?",
+      "respuesta": "La persona titular de cada Secretaría de Estado expide los manuales necesarios para el funcionamiento de la dependencia.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 19",
+      "sabias_que": "Los manuales describen la estructura y los procedimientos internos de cada dependencia."
+    },
+    {
+      "id": 170,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Gobernación",
+      "pregunta": "¿A qué Secretaría corresponde conducir la política migratoria y de movilidad humana?",
+      "respuesta": "Corresponde a la Secretaría de Gobernación formular y conducir la política migratoria y de movilidad humana, así como vigilar las fronteras y puntos de entrada al país.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 27, fracción V",
+      "sabias_que": "El Instituto Nacional de Migración depende sectorialmente de Gobernación."
+    },
+    {
+      "id": 171,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Gobernación",
+      "pregunta": "¿Qué Secretaría garantiza el carácter laico del Estado mexicano?",
+      "respuesta": "La Secretaría de Gobernación conduce las relaciones entre el Estado y las iglesias o agrupaciones religiosas y garantiza el carácter laico del Estado.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 27, fracción IV",
+      "sabias_que": "Esta facultad deriva directamente del principio constitucional de separación Iglesia-Estado."
+    },
+    {
+      "id": 172,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Hacienda",
+      "pregunta": "¿Qué Secretaría dirige la política financiera y fiscal del Gobierno Federal?",
+      "respuesta": "La Secretaría de Hacienda y Crédito Público es responsable de planear, coordinar, evaluar y vigilar el sistema bancario, financiero y fiscal de la Federación.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 31",
+      "sabias_que": "Es una de las dependencias con mayor impacto transversal sobre toda la Administración Pública."
+    },
+    {
+      "id": 173,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Economía",
+      "pregunta": "¿Qué Secretaría determina los aranceles y restricciones al comercio exterior?",
+      "respuesta": "La Secretaría de Economía estudia y determina los aranceles y las restricciones a la importación y exportación, escuchando la opinión de la Secretaría de Hacienda y Crédito Público.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 34, fracción V",
+      "sabias_que": "Los aranceles son una herramienta clave de política comercial y económica."
+    },
+    {
+      "id": 174,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Economía",
+      "pregunta": "¿Qué Secretaría regula, orienta y estimula las medidas de protección al consumidor?",
+      "respuesta": "La Secretaría de Economía tiene la atribución de regular, orientar y estimular las medidas de protección al consumidor.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 34, fracción VIII",
+      "sabias_que": "La PROFECO es un organismo sectorizado en el ámbito económico y de consumo."
+    },
+    {
+      "id": 175,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Salud",
+      "pregunta": "¿Qué Secretaría actúa como autoridad sanitaria federal?",
+      "respuesta": "La Secretaría de Salud actúa como autoridad sanitaria, ejerce las facultades de salubridad general y vigila el cumplimiento de la Ley General de Salud.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 39, fracción XXI",
+      "sabias_que": "En emergencias sanitarias puede ejercer acciones extraordinarias previstas por la ley."
+    },
+    {
+      "id": 176,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Salud",
+      "pregunta": "¿Quién controla medicamentos, vacunas e insumos para la salud?",
+      "respuesta": "La Secretaría de Salud controla la preparación, aplicación, posesión, uso, suministro, importación, exportación y distribución de medicamentos, vacunas e insumos médicos.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 39, fracción XIII",
+      "sabias_que": "Esta función sustenta la regulación sanitaria ejercida por COFEPRIS."
+    },
+    {
+      "id": 177,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Trabajo",
+      "pregunta": "¿Qué dependencia dirige el Servicio Nacional de Empleo?",
+      "respuesta": "La Secretaría del Trabajo y Previsión Social establece y dirige el Servicio Nacional de Empleo y vigila su funcionamiento.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 40, fracción VII",
+      "sabias_que": "El Servicio Nacional de Empleo vincula a buscadores de trabajo con empleadores."
+    },
+    {
+      "id": 178,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Trabajo",
+      "pregunta": "¿Quién lleva el registro de asociaciones obreras y patronales de jurisdicción federal?",
+      "respuesta": "La Secretaría del Trabajo y Previsión Social lleva el registro de las asociaciones obreras, patronales y profesionales que se ajusten a las leyes.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 40, fracción IX",
+      "sabias_que": "El registro sindical es un tema frecuente en evaluaciones de administración pública."
+    },
+    {
+      "id": 179,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Turismo",
+      "pregunta": "¿Qué Secretaría lleva la estadística en materia de turismo?",
+      "respuesta": "La Secretaría de Turismo lleva la estadística en materia turística conforme a las disposiciones que establezca la Secretaría de Hacienda y Crédito Público.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 42, fracción XVII",
+      "sabias_que": "Las estadísticas turísticas son esenciales para medir la derrama económica del sector."
+    },
+    {
+      "id": 180,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Mujeres",
+      "pregunta": "¿Cuál es la política nacional que coordina la Secretaría de las Mujeres?",
+      "respuesta": "Coordina la Política Nacional en materia de mujeres, adolescentes y niñas, igualdad sustantiva, prevención de violencias y sistema de cuidados.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 42 Bis, fracción I",
+      "sabias_que": "La Secretaría de las Mujeres fue incorporada recientemente a la estructura federal."
+    },
+    {
+      "id": 181,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Consejería Jurídica",
+      "pregunta": "¿Cuál es la función principal de apoyo de la Consejería Jurídica al Presidente?",
+      "respuesta": "La Consejería Jurídica brinda apoyo técnico-jurídico al Presidente de la República en todos los asuntos que éste le encomiende.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43, fracción I",
+      "sabias_que": "Es el principal órgano asesor jurídico del Titular del Ejecutivo Federal."
+    },
+    {
+      "id": 182,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Consejería Jurídica",
+      "pregunta": "¿Qué proyectos debe someter la Consejería Jurídica a consideración del Presidente?",
+      "respuesta": "Debe someter a consideración y, en su caso, firma del Presidente todos los proyectos de iniciativas de leyes y decretos que se presenten al Congreso de la Unión o a cualquiera de sus Cámaras.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43, fracción II",
+      "sabias_que": "La Consejería funciona como filtro jurídico previo de las iniciativas presidenciales."
+    },
+    {
+      "id": 183,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Consejería Jurídica",
+      "pregunta": "¿Qué facultad tiene la Consejería Jurídica respecto al Diario Oficial de la Federación?",
+      "respuesta": "Revisa los proyectos de reglamentos, decretos, acuerdos y demás instrumentos jurídicos para su publicación en el Diario Oficial de la Federación.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43",
+      "sabias_que": "La publicación en el DOF es indispensable para la vigencia de muchas disposiciones."
+    },
+    {
+      "id": 184,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Representación",
+      "pregunta": "¿Quién puede representar al Presidente en controversias constitucionales y acciones del artículo 105 constitucional?",
+      "respuesta": "La Consejería Jurídica puede representar al Presidente de la República cuando éste así lo acuerde, incluyendo el desahogo de todo tipo de pruebas.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43, fracción X",
+      "sabias_que": "La representación incluye controversias constitucionales y acciones de inconstitucionalidad."
+    },
+    {
+      "id": 185,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Amparo",
+      "pregunta": "¿Qué facultad puede ejercer la Consejería Jurídica respecto a asuntos prioritarios ante la Suprema Corte?",
+      "respuesta": "A solicitud de un Secretario de Estado, puede pedir al Presidente de la Suprema Corte atención prioritaria para amparos, controversias constitucionales o acciones de inconstitucionalidad.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43, fracción XI",
+      "sabias_que": "Esta facultad busca agilizar asuntos de especial relevancia para el Estado."
+    },
+    {
+      "id": 186,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Iniciativas",
+      "pregunta": "¿Con cuánta anticipación deben enviarse a la Consejería Jurídica los proyectos de iniciativas de ley?",
+      "respuesta": "Las dependencias deben enviarlos por lo menos con un mes de anticipación a la fecha en que se pretenda presentarlos al Congreso, salvo excepciones legales.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43 Bis",
+      "sabias_que": "La regla no aplica a la Ley de Ingresos, al Presupuesto de Egresos ni a casos de notoria urgencia."
+    },
+    {
+      "id": 187,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Coordinación",
+      "pregunta": "¿Qué obligación tienen las dependencias respecto de la Consejería Jurídica?",
+      "respuesta": "Deben proporcionar oportunamente la información y el apoyo que la Consejería Jurídica requiera para el cumplimiento de sus funciones.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43 Bis",
+      "sabias_que": "La coordinación jurídica interinstitucional es obligatoria para toda la APF."
+    },
+    {
+      "id": 188,
+      "subtema": "6. Ley Orgánica de la Administración Pública Federal",
+      "categoria": "Energía",
+      "pregunta": "¿Qué características tienen los Órganos Reguladores Coordinados en Materia Energética?",
+      "respuesta": "Cuentan con personalidad jurídica propia y autonomía técnica y de gestión, y son creados mediante ley que determina su competencia y coordinación con la Secretaría de Energía.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43 Ter",
+      "sabias_que": "Su diseño busca equilibrar autonomía técnica con coordinación gubernamental."
     }
   ]
 }
