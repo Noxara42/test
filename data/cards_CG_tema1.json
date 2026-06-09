@@ -319,6 +319,321 @@
       "respuesta": "En la apertura de sesiones ordinarias del primer periodo de cada año, el Presidente presentará un informe escrito sobre el estado general de la administración pública. Cada Cámara podrá solicitar ampliar la información mediante preguntas por escrito y citar a secretarios de Estado y directores de entidades paraestatales. En el primer año de mandato, en la apertura del segundo periodo, presentará ante el Senado la Estrategia Nacional de Seguridad Pública.",
       "fuente": "CPEUM, Artículo 69, párrafos primero, segundo y tercero",
       "sabias_que": "Hasta 2008, el Presidente acudía en persona a leer su informe; hoy lo presenta por escrito. Este cambio buscó fortalecer el control parlamentario al permitir a las Cámaras analizar y cuestionar directamente a los titulares de las dependencias."
+    },
+    {
+      "id": 36,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Definición",
+      "pregunta": "¿Cómo definió Charles-Jean Bonnin a la Administración Pública?",
+      "respuesta": "La definió como la autoridad común que ejecuta las leyes de interés general sobre las relaciones entre los administrados y la sociedad, así como sobre las personas, bienes y acciones vinculadas al orden público.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, apartado 2.2.1",
+      "sabias_que": "Bonnin es considerado el fundador de la Administración Pública como disciplina científica moderna."
+    },
+    {
+      "id": 37,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Dimensiones",
+      "pregunta": "¿Cuáles son las tres dimensiones desde las que puede entenderse la Administración Pública?",
+      "respuesta": "Puede entenderse como estructura que maneja recursos, como función del Estado y como disciplina científica dedicada al estudio del fenómeno administrativo gubernamental.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, p. 23",
+      "sabias_que": "Estas tres dimensiones permiten distinguir entre la práctica administrativa y su estudio académico."
+    },
+    {
+      "id": 38,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Gobierno",
+      "pregunta": "¿Cómo concibe Woodrow Wilson a la Administración Pública?",
+      "respuesta": "La considera la parte más visible del gobierno, el gobierno en acción, es decir, el aspecto ejecutivo y operante mediante el cual se ejecutan las decisiones públicas.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, apartado 2.2.1",
+      "sabias_que": "El ensayo de Wilson de 1887 es uno de los textos fundacionales de la disciplina."
+    },
+    {
+      "id": 39,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Funciones",
+      "pregunta": "¿Qué elementos integran la definición de Administración Pública propuesta por Muñoz Amato?",
+      "respuesta": "La define como la fase del gobierno que ordena cooperativamente a las personas mediante planeación, organización, educación y dirección para alcanzar los fines del sistema político.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, apartado 2.2.1",
+      "sabias_que": "La definición destaca el carácter cooperativo de la acción administrativa."
+    },
+    {
+      "id": 40,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Objeto estudio",
+      "pregunta": "¿Cuál es el objeto de estudio de la Administración Pública según Bernard Gournay?",
+      "respuesta": "Describe y explica la estructura, tareas y funcionamiento de los órganos encargados del interés colectivo, así como el comportamiento de quienes integran e influyen en dichos órganos.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, p. 25",
+      "sabias_que": "La propuesta de Gournay integra simultáneamente organización, actores y procesos."
+    },
+    {
+      "id": 41,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Disciplina",
+      "pregunta": "¿Por qué la Administración Pública enfrenta dificultades para afirmarse como disciplina autónoma?",
+      "respuesta": "Porque comparte áreas de estudio con disciplinas como la Ciencia Política, el Derecho, la Economía y la Teoría de la Organización, generando ambigüedad sobre su identidad propia.",
+      "fuente": "Gómez Díaz de León, Origen y evolución del estudio de la Administración Pública, Cap. 1, apartado 2",
+      "sabias_que": "La discusión sobre su autonomía científica continúa siendo un tema central en la academia."
+    },
+    {
+      "id": 42,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Especificidad",
+      "pregunta": "¿Qué diferencia fundamental existe entre Administración Pública y administración privada?",
+      "respuesta": "La Administración Pública forma parte del Estado y cumple funciones vinculadas al interés colectivo, el orden social y el ejercicio del poder público, mientras que la privada persigue objetivos particulares.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, apartado 5",
+      "sabias_que": "Ambas comparten técnicas de gestión, pero difieren en sus fines y criterios de evaluación."
+    },
+    {
+      "id": 43,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Estado",
+      "pregunta": "¿Por qué la Administración Pública es considerada una institución central para la vida colectiva?",
+      "respuesta": "Porque constituye el mecanismo mediante el cual el Estado atiende necesidades sociales, ejecuta políticas públicas y mantiene la gobernabilidad democrática.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, apartado 6",
+      "sabias_que": "Ricardo Uvalle la considera una institución esencial para el funcionamiento de la democracia."
+    },
+    {
+      "id": 44,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Política",
+      "pregunta": "¿Qué postura sostiene la doctrina clásica sobre la relación entre política y administración?",
+      "respuesta": "Sostiene que existe una separación entre los órganos políticos que deciden y los órganos administrativos que ejecutan, aunque esta visión ha sido ampliamente cuestionada.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, apartado 6.1",
+      "sabias_que": "La llamada dicotomía política-administración influyó durante décadas en el estudio de la disciplina."
+    },
+    {
+      "id": 45,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Políticas públicas",
+      "pregunta": "¿Por qué se considera un mito la separación absoluta entre política y administración?",
+      "respuesta": "Porque los administradores influyen en la formulación de opciones y decisiones públicas mediante su conocimiento técnico y participación en el diseño de políticas públicas.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, apartado 6",
+      "sabias_que": "La creciente complejidad técnica de los problemas públicos fortalece el papel de los especialistas."
+    },
+    {
+      "id": 46,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Organización",
+      "pregunta": "¿Qué caracteriza a los órganos desconcentrados de la Administración Pública?",
+      "respuesta": "Forman parte de la centralización administrativa, mantienen subordinación jerárquica, tienen competencia limitada y carecen de personalidad jurídica propia.",
+      "fuente": "Gómez Díaz de León, Definición y objeto de la Administración Pública, Cap. 2, apartado sobre desconcentración administrativa",
+      "sabias_que": "La desconcentración busca agilizar decisiones sin crear una nueva entidad pública."
+    },
+    {
+      "id": 47,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "LOAPF",
+      "pregunta": "¿Qué establece el artículo 1 de la Ley Orgánica de la Administración Pública Federal?",
+      "respuesta": "Establece las bases de organización de la Administración Pública Federal y señala que ésta se integra por una administración centralizada y una paraestatal.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 1",
+      "sabias_que": "Es el artículo que define la estructura general del Poder Ejecutivo Federal."
+    },
+    {
+      "id": 48,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Organización",
+      "pregunta": "¿Qué integra la Administración Pública Centralizada?",
+      "respuesta": "La Oficina de la Presidencia, las Secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los Órganos Reguladores Coordinados.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 1",
+      "sabias_que": "La centralización implica subordinación directa al titular del Poder Ejecutivo Federal."
+    },
+    {
+      "id": 49,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Paraestatal",
+      "pregunta": "¿Qué entidades conforman la Administración Pública Paraestatal?",
+      "respuesta": "Los organismos descentralizados, empresas de participación estatal, instituciones nacionales de crédito, seguros, fianzas y fideicomisos.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículos 1 y 3",
+      "sabias_que": "Estas entidades cuentan con mayor autonomía operativa que las dependencias centralizadas."
+    },
+    {
+      "id": 50,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Consejería",
+      "pregunta": "¿De quién depende directamente la Consejería Jurídica del Ejecutivo Federal?",
+      "respuesta": "Depende directamente del Presidente de la República, quien nombra y remueve libremente a la persona titular de la Consejería Jurídica.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 4",
+      "sabias_que": "La Consejería Jurídica asesora legalmente al Ejecutivo Federal."
+    },
+    {
+      "id": 51,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Gabinete",
+      "pregunta": "¿Para qué puede convocar el Presidente de la República a reuniones de gabinete?",
+      "respuesta": "Para definir o evaluar políticas gubernamentales, atender asuntos prioritarios o resolver temas cuya competencia corresponda a varias dependencias.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 7",
+      "sabias_que": "Las reuniones pueden ser presididas por el Presidente o por la Secretaría de Gobernación."
+    },
+    {
+      "id": 52,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Planeación",
+      "pregunta": "¿Cómo deben conducir sus actividades las dependencias y entidades federales?",
+      "respuesta": "Deben conducirlas de forma programada y con base en las políticas establecidas para cumplir los objetivos y prioridades de la planeación nacional del desarrollo.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 9",
+      "sabias_que": "La planeación es uno de los principios rectores de la gestión pública federal."
+    },
+    {
+      "id": 53,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Secretarías",
+      "pregunta": "¿Qué relación jerárquica existe entre las Secretarías de Estado?",
+      "respuesta": "Todas tienen igual rango y no existe preeminencia entre ellas, aunque la Secretaría de Gobernación puede coordinar acciones por acuerdo presidencial.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 10",
+      "sabias_que": "La coordinación no implica superioridad jerárquica sobre las demás secretarías."
+    },
+    {
+      "id": 54,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Facultades",
+      "pregunta": "¿Quién ejerce las funciones de competencia de las Secretarías de Estado?",
+      "respuesta": "Las personas titulares de las Secretarías ejercen sus funciones por acuerdo del Presidente de la República.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 11",
+      "sabias_que": "El principio refleja la unidad de mando del Poder Ejecutivo Federal."
+    },
+    {
+      "id": 55,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Normatividad",
+      "pregunta": "¿Qué deben elaborar las Secretarías de Estado respecto de su competencia?",
+      "respuesta": "Deben formular los proyectos de leyes, reglamentos, decretos, acuerdos y órdenes que correspondan a los asuntos de su competencia.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 12",
+      "sabias_que": "Las secretarías participan activamente en la elaboración de normas y políticas públicas."
+    },
+    {
+      "id": 56,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Refrendo",
+      "pregunta": "¿Qué requisito de validez tienen los reglamentos, decretos y acuerdos presidenciales?",
+      "respuesta": "Deben estar firmados por la persona titular de la Secretaría competente y, cuando involucren varias materias, por todas las secretarías correspondientes.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 13",
+      "sabias_que": "Este mecanismo se conoce como refrendo ministerial."
+    },
+    {
+      "id": 57,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Delegación",
+      "pregunta": "¿Qué facultades pueden delegar las personas titulares de las Secretarías de Estado?",
+      "respuesta": "Pueden delegar facultades a funcionarios subordinados, excepto aquellas que la ley o el reglamento interior les reserve expresamente.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 16",
+      "sabias_que": "La delegación busca hacer más eficiente el despacho de los asuntos públicos."
+    },
+    {
+      "id": 58,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Desconcentración",
+      "pregunta": "¿Qué son los órganos administrativos desconcentrados?",
+      "respuesta": "Son órganos subordinados jerárquicamente a una Secretaría que cuentan con facultades específicas para resolver asuntos en una materia o territorio determinado.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 17",
+      "sabias_que": "Ejercen funciones especializadas sin adquirir personalidad jurídica propia."
+    },
+    {
+      "id": 59,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Programas sociales",
+      "pregunta": "¿Qué leyenda obligatoria debe incluir la difusión de programas sociales federales?",
+      "respuesta": "Debe incluir la frase: “Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa”.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 17 Bis, fracción III, inciso d",
+      "sabias_que": "Esta disposición busca prevenir el uso político-electoral de los programas sociales."
+    },
+    {
+      "id": 60,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Transparencia",
+      "pregunta": "¿Con cuánta anticipación debe publicarse el calendario de entrega de apoyos sociales?",
+      "respuesta": "Debe darse a conocer con al menos 60 días de anticipación a la entrega de los apoyos correspondientes.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 17 Bis, fracción III, inciso c, numeral iv",
+      "sabias_que": "La medida fortalece la transparencia y la rendición de cuentas."
+    },
+    {
+      "id": 61,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Manuales",
+      "pregunta": "¿Qué obligación tienen las Secretarías respecto a sus manuales administrativos?",
+      "respuesta": "Deben expedir y mantener actualizados los manuales de organización, procedimientos y servicios al público, publicando los de organización general en el DOF.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 19",
+      "sabias_que": "Los manuales permiten conocer formalmente la estructura y funciones institucionales."
+    },
+    {
+      "id": 62,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Finanzas",
+      "pregunta": "¿Qué funciones realiza la Unidad de Administración y Finanzas?",
+      "respuesta": "Ejecuta servicios de apoyo administrativo en planeación, programación, presupuesto, tecnologías de información, recursos humanos, materiales, contabilidad y archivos.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 20",
+      "sabias_que": "Estas unidades concentran funciones clave para la operación institucional."
+    },
+    {
+      "id": 63,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Comisiones",
+      "pregunta": "¿Qué tipos de comisiones puede crear el Presidente de la República?",
+      "respuesta": "Puede crear comisiones intersecretariales, consultivas y presidenciales mediante decreto para atender asuntos específicos de coordinación, consulta o investigación.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 21",
+      "sabias_que": "Las comisiones pueden ser permanentes o transitorias."
+    },
+    {
+      "id": 64,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Control",
+      "pregunta": "¿Quién resuelve los conflictos sobre competencia entre Secretarías de Estado?",
+      "respuesta": "El Presidente de la República, por conducto de la Secretaría de Gobernación, determina qué dependencia debe atender el asunto controvertido.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 24",
+      "sabias_que": "Esta facultad evita duplicidades y conflictos administrativos."
+    },
+    {
+      "id": 65,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Cooperación",
+      "pregunta": "¿Qué obligación tienen las dependencias cuando otra requiere información o apoyo técnico?",
+      "respuesta": "Deben proporcionar los informes, datos o cooperación técnica necesarios para el cumplimiento de las atribuciones de la dependencia solicitante.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 25",
+      "sabias_que": "La coordinación interinstitucional es indispensable para la acción gubernamental."
+    },
+    {
+      "id": 66,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Secretarías",
+      "pregunta": "¿Cuántas Secretarías y órganos de nivel equivalente contempla actualmente el artículo 26?",
+      "respuesta": "El artículo 26 contempla 22 dependencias del orden administrativo, incluyendo Secretarías de Estado y la Agencia de Transformación Digital y Telecomunicaciones.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 26",
+      "sabias_que": "La estructura puede modificarse mediante reformas a la Ley Orgánica."
+    },
+    {
+      "id": 67,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Gobernación",
+      "pregunta": "¿Cuál es la función principal de la Secretaría de Gobernación en materia de política interior?",
+      "respuesta": "Formular y conducir la política interior del Ejecutivo Federal, fortalecer instituciones democráticas y promover acuerdos políticos que favorezcan la gobernabilidad.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 27, fracción I",
+      "sabias_que": "Gobernación es la dependencia coordinadora de la acción política interna del Ejecutivo."
+    },
+    {
+      "id": 68,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Relaciones exteriores",
+      "pregunta": "¿Qué función esencial corresponde a la Secretaría de Relaciones Exteriores?",
+      "respuesta": "Conducir la política exterior mexicana e intervenir en tratados, acuerdos y convenciones internacionales en los que el país sea parte.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 28, fracción I",
+      "sabias_que": "La política exterior es una facultad constitucional estratégica del Estado mexicano."
+    },
+    {
+      "id": 69,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Hacienda",
+      "pregunta": "¿Qué atribución fundamental tiene la Secretaría de Hacienda y Crédito Público en la planeación nacional?",
+      "respuesta": "Proyectar y coordinar la planeación nacional del desarrollo y elaborar el Plan Nacional correspondiente con participación de los grupos sociales interesados.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 31, fracción I",
+      "sabias_que": "El Plan Nacional de Desarrollo orienta la acción gubernamental durante el sexenio."
+    },
+    {
+      "id": 70,
+      "subtema": "2. Importancia de la Administración Pública",
+      "categoria": "Hacienda",
+      "pregunta": "¿Qué facultad tiene Hacienda respecto de las Unidades de Administración y Finanzas?",
+      "respuesta": "Puede nombrar y remover a las personas titulares de las Unidades de Administración y Finanzas y a los servidores públicos de los dos niveles jerárquicos inmediatos inferiores.",
+      "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 31, fracción XXXII",
+      "sabias_que": "Esta atribución fue incorporada mediante la reforma de 2024 para fortalecer la coordinación administrativa."
     }
   ]
 }
