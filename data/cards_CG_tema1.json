@@ -3,7 +3,7 @@
   "examen": "Conocimientos Técnicos",
   "tema_num": "I",
   "tema": "I. Conocimientos generales de la Administración Pública Federal",
-  "total_flashcards": 95,
+  "total_flashcards": 123,
   "flashcards": [
     {
       "id": 1,
@@ -859,6 +859,258 @@
       "respuesta": "Debe actuar como agente de cambio, con visión estratégica, orientación al largo plazo, capacidad de adaptación, innovación continua y enfoque global con acción local.",
       "fuente": "Chiavenato, Cap. 1, pp. 15-16",
       "sabias_que": "El autor considera más importante saber qué hacer que simplemente saber cómo hacerlo."
+    },       
+    {
+      "id": 96,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Dominación",
+      "pregunta": "¿Qué entiende Max Weber por dominación?",
+      "respuesta": "La dominación es la probabilidad de encontrar obediencia dentro de un grupo determinado para mandatos específicos o para toda clase de mandatos. Requiere un mínimo de voluntad o interés en obedecer por parte de los subordinados.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §1, p. 170",
+      "sabias_que": "Weber distingue dominación de poder: no toda influencia o poder constituye una relación de autoridad."
+    },
+    {
+      "id": 97,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Legitimidad",
+      "pregunta": "¿Por qué toda dominación busca legitimidad según Weber?",
+      "respuesta": "Porque los motivos materiales, afectivos o racionales por sí solos son insuficientes para sostenerla; normalmente la dominación procura despertar y fomentar la creencia en su legitimidad para consolidar su permanencia.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §1, p. 170",
+      "sabias_que": "La legitimidad influye tanto en el tipo de obediencia como en la estructura administrativa."
+    },
+    {
+      "id": 98,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Obediencia",
+      "pregunta": "¿Qué significa obediencia en una relación de dominación?",
+      "respuesta": "Significa que la acción del subordinado transcurre como si el contenido del mandato se hubiera convertido por sí mismo en máxima de su conducta, debido a la relación formal de obediencia.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §1, p. 172",
+      "sabias_que": "Para Weber, la obediencia no depende necesariamente de estar de acuerdo con el mandato."
+    },
+    {
+      "id": 99,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Tipos",
+      "pregunta": "¿Cuáles son los tres tipos puros de dominación legítima?",
+      "respuesta": "La dominación legítima puede ser racional o legal, basada en la legalidad de normas; tradicional, basada en la santidad de las tradiciones; y carismática, basada en la entrega a las cualidades extraordinarias de una persona.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §2, pp. 172-173",
+      "sabias_que": "Esta clasificación es uno de los aportes más influyentes de Weber a la sociología política."
+    },
+    {
+      "id": 100,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Autoridad legal",
+      "pregunta": "¿En qué se fundamenta la autoridad legal?",
+      "respuesta": "Se fundamenta en la creencia en la legalidad de ordenaciones estatuidas y en el derecho de mando de quienes han sido designados conforme a esas normas para ejercer autoridad.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §2, p. 172",
+      "sabias_que": "El funcionario moderno ejerce autoridad por el cargo y no por cualidades personales."
+    },
+    {
+      "id": 101,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Autoridad tradicional",
+      "pregunta": "¿En qué se fundamenta la autoridad tradicional?",
+      "respuesta": "Descansa en la creencia cotidiana en la santidad de las tradiciones heredadas y en la legitimidad de quienes son llamados por esas tradiciones a ejercer el mando.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §2, p. 172",
+      "sabias_que": "La obediencia se dirige a la persona del señor tradicional y no a normas impersonales."
+    },
+    {
+      "id": 102,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Autoridad carismática",
+      "pregunta": "¿En qué se fundamenta la autoridad carismática?",
+      "respuesta": "Se basa en la entrega extraordinaria a la santidad, heroísmo o ejemplaridad de una persona y a las ordenaciones creadas o reveladas por ella.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §2, p. 172",
+      "sabias_que": "El liderazgo carismático suele surgir en momentos de crisis o transformación social."
+    },
+    {
+      "id": 103,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Dominación legal",
+      "pregunta": "¿Cuál es la idea central de la dominación legal respecto al derecho?",
+      "respuesta": "Que todo derecho puede ser estatuido racionalmente y que constituye un conjunto de reglas abstractas cuya aplicación orienta tanto la judicatura como la administración.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §3, p. 173",
+      "sabias_que": "La racionalidad jurídica es un rasgo distintivo del Estado moderno."
+    },
+    {
+      "id": 104,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Competencia",
+      "pregunta": "¿Qué significa competencia en la dominación legal?",
+      "respuesta": "Implica un ámbito objetivamente delimitado de deberes y servicios, la atribución de poderes necesarios para cumplirlos y la fijación estricta de medios coactivos admisibles.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §3, p. 174",
+      "sabias_que": "La competencia delimita formalmente lo que cada autoridad puede hacer."
+    },
+    {
+      "id": 105,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Jerarquía",
+      "pregunta": "¿Qué es el principio de jerarquía administrativa?",
+      "respuesta": "Es la ordenación de autoridades fijas con facultades de regulación e inspección y con derecho de queja o apelación ante autoridades superiores.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §3, p. 174",
+      "sabias_que": "La jerarquía permite supervisar y corregir decisiones dentro de la organización."
+    },
+    {
+      "id": 106,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Profesionalización",
+      "pregunta": "¿Qué requisito exige la administración racional para integrar su cuadro administrativo?",
+      "respuesta": "Exige formación profesional acreditada mediante pruebas exitosas o calificaciones equivalentes, de modo que sólo personas calificadas puedan desempeñarse como funcionarios.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §3, p. 175",
+      "sabias_que": "La profesionalización distingue a la burocracia moderna de formas tradicionales de administración."
+    },
+    {
+      "id": 107,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Separación",
+      "pregunta": "¿Qué principio rige entre funcionarios y medios de administración?",
+      "respuesta": "Existe una separación plena entre el cuadro administrativo y los medios materiales de administración y producción, los cuales no pertenecen a los funcionarios.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §3, p. 175",
+      "sabias_que": "La separación entre oficina y patrimonio privado evita la apropiación personal de recursos públicos."
+    },
+    {
+      "id": 108,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Expediente",
+      "pregunta": "¿Qué importancia tiene el expediente en la administración burocrática?",
+      "respuesta": "Rige el principio de atenerse al expediente, dejando constancia escrita de considerandos, propuestas, decisiones y disposiciones, convirtiendo a la oficina en núcleo de la administración moderna.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §3, p. 175",
+      "sabias_que": "El expediente permite continuidad institucional más allá de las personas."
+    },
+    {
+      "id": 109,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Burocracia",
+      "pregunta": "¿Cuál es el tipo más puro de dominación legal?",
+      "respuesta": "Es la dominación ejercida por medio de un cuadro administrativo burocrático compuesto por funcionarios individuales sujetos a reglas, jerarquía y competencias definidas.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §4, p. 175",
+      "sabias_que": "Weber considera a la burocracia la forma organizativa más característica de la modernidad."
+    },
+    {
+      "id": 110,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Funcionario",
+      "pregunta": "¿Cuáles son los rasgos básicos del funcionario burocrático?",
+      "respuesta": "Es personalmente libre, actúa dentro de una jerarquía rigurosa, tiene competencias fijas, es seleccionado por calificación profesional y trabaja bajo disciplina administrativa.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §4, pp. 176-177",
+      "sabias_que": "La figura del funcionario profesional es central para el funcionamiento del Estado moderno."
+    },
+    {
+      "id": 111,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Carrera",
+      "pregunta": "¿Qué características tiene la carrera burocrática?",
+      "respuesta": "El funcionario recibe sueldo fijo, suele tener derecho a pensión, ejerce el cargo como profesión principal y cuenta con perspectivas de ascenso según méritos, servicios o antigüedad.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §4, p. 176",
+      "sabias_que": "La estabilidad laboral favorece la continuidad administrativa."
+    },
+    {
+      "id": 112,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Racionalidad",
+      "pregunta": "¿Por qué la administración burocrática es considerada la forma más racional de dominación?",
+      "respuesta": "Porque ofrece precisión, continuidad, disciplina, rigor, confianza, calculabilidad, aplicabilidad universal y posibilidades de perfeccionamiento técnico en los resultados.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §5, p. 178",
+      "sabias_que": "La racionalidad burocrática fue clave para el desarrollo del Estado moderno occidental."
+    },
+    {
+      "id": 113,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Especialización",
+      "pregunta": "¿Cuál es la principal fuente de superioridad de la burocracia?",
+      "respuesta": "Su principal ventaja es el saber profesional especializado, indispensable para administrar organizaciones complejas y sistemas productivos modernos.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §5, p. 178",
+      "sabias_que": "Para Weber, el conocimiento técnico otorga poder a la burocracia."
+    },
+    {
+      "id": 114,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Impersonalidad",
+      "pregunta": "¿Qué significa la impersonalidad formalista en la burocracia?",
+      "respuesta": "Consiste en actuar sine ira et studio, sin odio ni pasión, aplicando las reglas de manera formalmente igual para todos y sin acepción de personas.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §5, p. 179",
+      "sabias_que": "La imparcialidad es una consecuencia directa de la impersonalidad burocrática."
+    },
+    {
+      "id": 115,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Tradición",
+      "pregunta": "¿Qué caracteriza a la dominación tradicional?",
+      "respuesta": "Su legitimidad descansa en la santidad de ordenaciones y poderes heredados desde tiempos inmemoriales, considerados válidos por la fuerza de la tradición.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §6, p. 180",
+      "sabias_que": "La tradición limita tanto a los subordinados como al propio gobernante."
+    },
+    {
+      "id": 116,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Tradicionalismo",
+      "pregunta": "¿Qué diferencia existe entre dominación legal y tradicional respecto a las normas?",
+      "respuesta": "La dominación legal se basa en normas abstractas e impersonales, mientras que la tradicional se fundamenta en costumbres heredadas y en la autoridad personal del señor tradicional.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §§2 y 6, pp. 172-180",
+      "sabias_que": "La obediencia legal se dirige al orden jurídico; la tradicional, a la persona legitimada por la costumbre."
+    },
+    {
+      "id": 117,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Patrimonialismo",
+      "pregunta": "¿Qué es la dominación patrimonial?",
+      "respuesta": "Es una forma de dominación tradicional ejercida en virtud de un derecho propio del gobernante, quien trata los poderes de mando como una posesión susceptible de apropiación y aprovechamiento.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §7a, p. 185",
+      "sabias_que": "El patrimonialismo surge cuando aparece un cuadro administrativo dependiente del señor."
+    },
+    {
+      "id": 118,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Gerontocracia",
+      "pregunta": "¿Qué es la gerontocracia según Weber?",
+      "respuesta": "Es la situación en la que la autoridad es ejercida por los más viejos de la comunidad, considerados los mejores conocedores de la tradición sagrada.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §7a, p. 184",
+      "sabias_que": "La edad funciona como criterio de legitimidad política y social."
+    },
+    {
+      "id": 119,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Patriarcalismo",
+      "pregunta": "¿Qué es el patriarcalismo originario?",
+      "respuesta": "Es la dominación ejercida normalmente por una sola persona dentro de una asociación económica y familiar, conforme a reglas hereditarias tradicionales.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §7a, p. 184",
+      "sabias_que": "La familia fue una de las primeras bases históricas de la autoridad tradicional."
+    },
+    {
+      "id": 120,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Carisma",
+      "pregunta": "¿Qué entiende Weber por carisma?",
+      "respuesta": "Es una cualidad considerada extraordinaria de una persona, a quien se atribuyen fuerzas sobrenaturales, sobrehumanas o ejemplares que la convierten en líder o guía.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §10, p. 193",
+      "sabias_que": "El carisma depende de la percepción de los seguidores más que de una cualidad objetiva."
+    },
+    {
+      "id": 121,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Reconocimiento",
+      "pregunta": "¿Qué papel tiene el reconocimiento en la dominación carismática?",
+      "respuesta": "La validez del carisma depende del reconocimiento de los dominados, basado en la fe, la confianza y la corroboración continua de las cualidades extraordinarias del líder.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §10, p. 194",
+      "sabias_que": "Si el líder deja de demostrar éxito o cualidades excepcionales, su carisma puede desaparecer."
+    },
+    {
+      "id": 122,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Carismática",
+      "pregunta": "¿Cómo se diferencia la dominación carismática de la burocrática y la tradicional?",
+      "respuesta": "La dominación carismática es extraordinaria, personal y revolucionaria; la burocrática es racional y basada en reglas; la tradicional se apoya en precedentes y costumbres heredadas.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §10, pp. 195-196",
+      "sabias_que": "Weber considera al carisma una fuerza capaz de transformar radicalmente el orden existente."
+    },
+    {
+      "id": 123,
+      "subtema": "4. Burocracia y ejercicio de gobierno",
+      "categoria": "Rutinización",
+      "pregunta": "¿Qué es la rutinización del carisma?",
+      "respuesta": "Es el proceso mediante el cual una dominación carismática duradera se transforma progresivamente en formas tradicionales, legales, patrimoniales o burocráticas para asegurar su continuidad.",
+      "fuente": "Weber, Economía y Sociedad, Capítulo III, §11, pp. 197-199",
+      "sabias_que": "Muchas instituciones políticas y religiosas surgieron de liderazgos carismáticos posteriormente institucionalizados."
     }
   ]
 }
