@@ -3,7 +3,7 @@
   "examen": "Conocimientos Técnicos",
   "tema_num": "I",
   "tema": "I. Conocimientos generales de la Administración Pública Federal",
-  "total_flashcards": 123,
+  "total_flashcards": 188,
   "flashcards": [
     {
       "id": 1,
@@ -1696,6 +1696,231 @@
       "respuesta": "Cuentan con personalidad jurídica propia y autonomía técnica y de gestión, y son creados mediante ley que determina su competencia y coordinación con la Secretaría de Energía.",
       "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 43 Ter",
       "sabias_que": "Su diseño busca equilibrar autonomía técnica con coordinación gubernamental."
+    },
+    {
+      "id": 189,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Objeto ley",
+      "pregunta": "¿Qué materia reglamenta la Ley de Fiscalización y Rendición de Cuentas de la Federación?",
+      "respuesta": "Reglamenta los artículos 73 fracción XXIV, 74 fracciones II y VI y 79 constitucionales en materia de revisión y fiscalización de la Cuenta Pública, denuncias por irregularidades, participaciones federales y recursos provenientes de financiamientos garantizados por la Federación.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 1",
+      "sabias_que": "La ASF puede fiscalizar recursos federales aun cuando se administren mediante fideicomisos o asociaciones público-privadas."
+    },
+    {
+      "id": 190,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Fiscalización",
+      "pregunta": "¿Qué comprende la fiscalización de la Cuenta Pública?",
+      "respuesta": "Comprende la fiscalización de la gestión financiera para verificar ingresos, gastos, deuda pública y manejo de recursos federales, así como la práctica de auditorías sobre el desempeño para evaluar el cumplimiento de objetivos de los programas federales.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 2",
+      "sabias_que": "La fiscalización no sólo revisa dinero ejercido, también analiza resultados obtenidos por los programas."
+    },
+    {
+      "id": 191,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Principios",
+      "pregunta": "¿Bajo qué principios se realiza la fiscalización de la Cuenta Pública?",
+      "respuesta": "La fiscalización se lleva a cabo conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 3",
+      "sabias_que": "Estos principios buscan garantizar que las auditorías sean objetivas y técnicamente sustentadas."
+    },
+    {
+      "id": 192,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "ASF",
+      "pregunta": "¿Qué es la Auditoría Superior de la Federación según la Ley?",
+      "respuesta": "Es el órgano técnico de fiscalización de la Cámara de Diputados encargado de la revisión y fiscalización superior en los términos previstos por la Constitución y la Ley.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 4, fracción I",
+      "sabias_que": "La ASF depende de la Cámara de Diputados, pero cuenta con autonomía técnica y de gestión."
+    },
+    {
+      "id": 193,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Autonomía",
+      "pregunta": "¿Qué diferencia existe entre autonomía de gestión y autonomía técnica de la ASF?",
+      "respuesta": "La autonomía de gestión permite decidir sobre organización, estructura, funcionamiento y recursos; la autonomía técnica permite decidir sobre planeación, programación, ejecución, informes y seguimiento de la fiscalización superior.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 4, fracciones III y IV",
+      "sabias_que": "La autonomía técnica protege a la ASF de interferencias en sus decisiones de auditoría."
+    },
+    {
+      "id": 194,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Entidades",
+      "pregunta": "¿Quiénes son considerados entidades fiscalizadas?",
+      "respuesta": "Son los entes públicos y cualquier persona física o moral, pública o privada, fideicomiso, fondo o figura jurídica que haya captado, administrado, ejercido o recibido recursos públicos federales o participaciones federales.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 4, fracción XI",
+      "sabias_que": "Incluso organizaciones privadas pueden ser fiscalizadas si manejan recursos federales."
+    },
+    {
+      "id": 195,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Transparencia",
+      "pregunta": "¿Qué informes deben publicarse en la página de Internet de la ASF?",
+      "respuesta": "El Informe General, los informes específicos y los informes individuales deben publicarse en formatos abiertos, salvo la información temporalmente reservada o relacionada con investigaciones en curso.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 5",
+      "sabias_que": "La información reservada debe incorporarse una vez que deje de tener ese carácter."
+    },
+    {
+      "id": 196,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Fiscalización",
+      "pregunta": "¿Cuándo y con qué carácter realiza la ASF la fiscalización de la Cuenta Pública?",
+      "respuesta": "La realiza de manera posterior al término de cada ejercicio fiscal, una vez aprobado y publicado el programa anual de auditorías, con carácter externo e independiente de otros controles o fiscalizaciones.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 6",
+      "sabias_que": "La fiscalización superior no sustituye las funciones de los órganos internos de control."
+    },
+    {
+      "id": 197,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Obligaciones",
+      "pregunta": "¿Qué obligación tienen los servidores públicos y particulares respecto de la ASF?",
+      "respuesta": "Deben proporcionar la información y documentación que solicite la ASF para auditorías e investigaciones, incluyendo anexos, estudios soporte, memorias de cálculo y demás documentación relacionada.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 9",
+      "sabias_que": "La obligación alcanza también a particulares que ejerzan recursos federales."
+    },
+    {
+      "id": 198,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Plazos",
+      "pregunta": "¿Qué plazo puede fijar la ASF cuando la Ley no establezca uno?",
+      "respuesta": "Puede fijar un plazo no inferior a diez días hábiles ni mayor a quince días hábiles contados a partir del día siguiente a la notificación correspondiente.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 9",
+      "sabias_que": "La ASF puede conceder un plazo mayor por complejidad del requerimiento, pero no puede prorrogarlo posteriormente."
+    },
+    {
+      "id": 199,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Multas",
+      "pregunta": "¿Cuál es la multa para servidores públicos o personas físicas que no atiendan requerimientos de la ASF?",
+      "respuesta": "La ASF puede imponer una multa mínima de 150 y máxima de 2,000 veces el valor diario de la Unidad de Medida y Actualización.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 10, fracción I",
+      "sabias_que": "La reincidencia puede sancionarse con hasta el doble de la multa previamente impuesta."
+    },
+    {
+      "id": 200,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Multas",
+      "pregunta": "¿Cuál es la multa aplicable a personas morales que incumplan requerimientos de la ASF?",
+      "respuesta": "La multa va de un mínimo de 650 hasta un máximo de 10,000 veces el valor diario de la Unidad de Medida y Actualización.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 10, fracción II",
+      "sabias_que": "Las multas tienen carácter de créditos fiscales y su cobro corresponde al SAT."
+    },
+    {
+      "id": 201,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Sanciones",
+      "pregunta": "¿Qué consecuencias tiene proporcionar información falsa a la ASF?",
+      "respuesta": "Las personas físicas y morales que aporten información falsa serán sancionadas penalmente conforme a lo previsto en el Código Penal Federal.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 11",
+      "sabias_que": "La sanción penal es independiente de otras responsabilidades administrativas aplicables."
+    },
+    {
+      "id": 202,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Informe avance",
+      "pregunta": "¿Qué debe contener el Informe de Avance de Gestión Financiera?",
+      "respuesta": "Debe contener el flujo contable de ingresos y egresos al 30 de junio del ejercicio correspondiente y el avance en el cumplimiento de los programas con base en los indicadores aprobados.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 12",
+      "sabias_que": "La ASF analiza este informe dentro de los 30 días posteriores a su presentación."
+    },
+    {
+      "id": 203,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Objeto fiscalizacion",
+      "pregunta": "¿Cuál es uno de los principales objetivos de la fiscalización de la Cuenta Pública?",
+      "respuesta": "Evaluar los resultados de la gestión financiera verificando la ejecución de la Ley de Ingresos, el ejercicio del Presupuesto de Egresos y el manejo de financiamientos, ingresos y egresos públicos.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 14, fracción I",
+      "sabias_que": "La revisión incluye contratos, subsidios, donativos, fideicomisos y esquemas de pago a largo plazo."
+    },
+    {
+      "id": 204,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Desempeño",
+      "pregunta": "¿Qué verifica la ASF mediante las auditorías de desempeño?",
+      "respuesta": "Verifica la eficiencia, eficacia y economía en el cumplimiento de los objetivos de los programas, así como el cumplimiento de metas e indicadores establecidos en el Presupuesto de Egresos.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 14, fracción II",
+      "sabias_que": "También se revisa si los programas contribuyen a la igualdad entre mujeres y hombres."
+    },
+    {
+      "id": 205,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Observaciones",
+      "pregunta": "¿Qué tipos de acciones pueden derivar de las observaciones emitidas por la ASF?",
+      "respuesta": "Pueden derivar en solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones de responsabilidad administrativa, denuncias de hechos, denuncias de juicio político y recomendaciones.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 15",
+      "sabias_que": "No todas las observaciones generan sanciones; algunas concluyen con recomendaciones de mejora."
+    },
+    {
+      "id": 206,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Cuenta publica",
+      "pregunta": "¿En qué plazo debe turnarse la Cuenta Pública a la ASF una vez recibida por la Cámara?",
+      "respuesta": "La Mesa Directiva debe turnarla a la Comisión en un máximo de dos días y la Comisión cuenta con el mismo plazo para remitirla a la ASF.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 16",
+      "sabias_que": "La rapidez en el turno permite iniciar oportunamente el proceso de fiscalización."
+    },
+    {
+      "id": 207,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Atribuciones",
+      "pregunta": "¿Cuándo puede iniciar la ASF el proceso de fiscalización de una Cuenta Pública?",
+      "respuesta": "Puede iniciar a partir del primer día hábil del ejercicio fiscal siguiente, aunque las observaciones deberán referirse a la información definitiva presentada en la Cuenta Pública.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 17, fracción I",
+      "sabias_que": "La ASF no necesita esperar la entrega formal de la Cuenta Pública para comenzar trabajos preparatorios."
+    },
+    {
+      "id": 208,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Informacion",
+      "pregunta": "¿Puede la ASF acceder a información reservada o confidencial?",
+      "respuesta": "Sí, cuando esté directamente relacionada con la captación, recaudación, administración, manejo, custodia, ejercicio o aplicación de ingresos, egresos federales o deuda pública, manteniendo la reserva correspondiente.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 17, fracción XI",
+      "sabias_que": "La solicitud de esta información es indelegable para el Titular de la ASF y los auditores especiales."
+    },
+    {
+      "id": 209,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Fiscalizacion digital",
+      "pregunta": "¿Cómo pueden realizarse los procesos de fiscalización según el artículo 17 Bis?",
+      "respuesta": "Pueden realizarse de manera presencial o por medios electrónicos mediante herramientas tecnológicas y el uso del Buzón Digital conforme a las reglas generales emitidas por la ASF.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 17 Bis",
+      "sabias_que": "La reforma de 2021 formalizó la fiscalización digital en la ASF."
+    },
+    {
+      "id": 210,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Notificaciones",
+      "pregunta": "¿Cuándo se tiene por realizada una notificación digital no consultada por la entidad fiscalizada?",
+      "respuesta": "Se tendrá por realizada al tercer día hábil siguiente contado a partir del día en que fue enviado el aviso electrónico correspondiente.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 17 Ter, fracción V",
+      "sabias_que": "Las entidades fiscalizadas son responsables de mantener vigente su correo electrónico registrado."
+    },
+    {
+      "id": 211,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Resultados",
+      "pregunta": "¿Con cuánta anticipación deben citarse las reuniones para presentar resultados y observaciones preliminares?",
+      "respuesta": "Las entidades fiscalizadas deben ser citadas por lo menos con diez días hábiles de anticipación y recibir en el mismo plazo los resultados y observaciones preliminares.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 20",
+      "sabias_que": "La entidad puede solicitar hasta siete días hábiles adicionales para presentar información complementaria."
+    },
+    {
+      "id": 212,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Revision",
+      "pregunta": "¿En qué casos puede la ASF revisar información de ejercicios anteriores?",
+      "respuesta": "Cuando programas, proyectos o erogaciones abarquen diversos ejercicios fiscales o se trate de auditorías sobre el desempeño, sin que ello implique reabrir la Cuenta Pública correspondiente.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 22",
+      "sabias_que": "Las observaciones sólo pueden referirse a la Cuenta Pública en revisión, aunque se detecten irregularidades de otros ejercicios."
+    },
+    {
+      "id": 213,
+      "subtema": "7. Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "categoria": "Conflicto interes",
+      "pregunta": "¿Qué requisito deben cumplir los despachos o profesionales independientes contratados para auditorías?",
+      "respuesta": "Deben manifestar por escrito que no tienen conflicto de intereses con las entidades fiscalizadas ni con la propia Auditoría Superior de la Federación antes de su contratación.",
+      "fuente": "Ley de Fiscalización y Rendición de Cuentas de la Federación, Artículo 26",
+      "sabias_que": "La ley prohíbe contratar auditorías externas cuando exista parentesco hasta cuarto grado con mandos superiores de la ASF."
     }
   ]
 }
