@@ -3,7 +3,7 @@
   "examen": "Conocimientos Técnicos",
   "tema_num": "I",
   "tema": "I. Conocimientos generales de la Administración Pública Federal",
-  "total_flashcards": 35,
+  "total_flashcards": 95,
   "flashcards": [
     {
       "id": 1,
@@ -634,6 +634,231 @@
       "respuesta": "Puede nombrar y remover a las personas titulares de las Unidades de Administración y Finanzas y a los servidores públicos de los dos niveles jerárquicos inmediatos inferiores.",
       "fuente": "Ley Orgánica de la Administración Pública Federal, Artículo 31, fracción XXXII",
       "sabias_que": "Esta atribución fue incorporada mediante la reforma de 2024 para fortalecer la coordinación administrativa."
+    },
+    {
+      "id": 71,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Concepto",
+      "pregunta": "¿Qué es la administración según la TGA?",
+      "respuesta": "La administración es la conducción racional de las actividades de una organización mediante la planeación, organización, dirección y control de todas sus actividades para asegurar su existencia, supervivencia y éxito.",
+      "fuente": "Chiavenato, Introducción a la Teoría General de la Administración, Cap. 1, pp. 7-8",
+      "sabias_que": "La administración es considerada por el autor como indispensable para que cualquier organización pueda sobrevivir y crecer."
+    },
+    {
+      "id": 72,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Organizaciones",
+      "pregunta": "¿Qué estudia la teoría de las organizaciones (TO)?",
+      "respuesta": "La teoría de las organizaciones es el campo del conocimiento humano que se ocupa del estudio de las organizaciones en general, incluyendo su estructura, funcionamiento y objetivos.",
+      "fuente": "Chiavenato, Cap. 1, p. 7",
+      "sabias_que": "La TO estudia tanto empresas lucrativas como organizaciones públicas, religiosas y sociales."
+    },
+    {
+      "id": 73,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "TGA",
+      "pregunta": "¿Qué estudia la teoría general de la administración (TGA)?",
+      "respuesta": "La TGA es el área del conocimiento humano que se ocupa del estudio de la administración en general y de las organizaciones en particular.",
+      "fuente": "Chiavenato, Cap. 1, p. 7",
+      "sabias_que": "La TGA integra múltiples teorías administrativas desarrolladas a lo largo de más de un siglo."
+    },
+    {
+      "id": 74,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Habilidades",
+      "pregunta": "¿Cuáles son las tres habilidades fundamentales del administrador según Katz?",
+      "respuesta": "Las habilidades fundamentales son las técnicas, relacionadas con el trabajo y métodos; las humanas, vinculadas con las personas; y las conceptuales, relacionadas con ideas, teorías y visión integral de la organización.",
+      "fuente": "Chiavenato, Cap. 1, pp. 2-3",
+      "sabias_que": "La proporción de cada habilidad cambia conforme el administrador asciende en la jerarquía organizacional."
+    },
+    {
+      "id": 75,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Habilidades",
+      "pregunta": "¿Qué son las habilidades técnicas del administrador?",
+      "respuesta": "Son las capacidades para utilizar conocimientos, métodos, técnicas y herramientas relacionadas con la ejecución del trabajo, incluyendo planeación, organización y uso de recursos materiales y tecnológicos.",
+      "fuente": "Chiavenato, Cap. 1, p. 2",
+      "sabias_que": "Las habilidades técnicas predominan en los niveles operacionales de una organización."
+    },
+    {
+      "id": 76,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Habilidades",
+      "pregunta": "¿Qué son las habilidades humanas del administrador?",
+      "respuesta": "Son las capacidades para relacionarse con personas, comunicarse, motivar, coordinar, liderar y resolver conflictos, fomentando la cooperación y el compromiso dentro de los equipos.",
+      "fuente": "Chiavenato, Cap. 1, p. 2",
+      "sabias_que": "Estas habilidades permiten obtener resultados a través de otras personas y no únicamente por esfuerzo individual."
+    },
+    {
+      "id": 77,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Habilidades",
+      "pregunta": "¿Qué son las habilidades conceptuales del administrador?",
+      "respuesta": "Son las capacidades para trabajar con ideas, conceptos y teorías, comprender la organización como un todo, formular estrategias y diagnosticar situaciones complejas.",
+      "fuente": "Chiavenato, Cap. 1, pp. 2-3",
+      "sabias_que": "Las habilidades conceptuales se vuelven más importantes conforme se asciende a puestos directivos."
+    },
+    {
+      "id": 78,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Competencias",
+      "pregunta": "¿Cuáles son las cuatro competencias duraderas que debe desarrollar un administrador?",
+      "respuesta": "Las competencias duraderas son conocimiento, habilidad, juicio y actitud, las cuales permiten enfrentar cambios constantes y mantener un desempeño exitoso.",
+      "fuente": "Chiavenato, Cap. 1, pp. 3-4",
+      "sabias_que": "Chiavenato las considera el principal patrimonio intelectual del administrador."
+    },
+    {
+      "id": 79,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Competencias",
+      "pregunta": "¿Qué significa la competencia de conocimiento en la administración?",
+      "respuesta": "Es el conjunto de información, conceptos, ideas y experiencias que posee el administrador y que debe actualizar y renovar continuamente para evitar la obsolescencia profesional.",
+      "fuente": "Chiavenato, Cap. 1, p. 3",
+      "sabias_que": "El autor resume esta competencia como la capacidad de aprender a aprender."
+    },
+    {
+      "id": 80,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Competencias",
+      "pregunta": "¿Qué significa la competencia de actitud en la administración?",
+      "respuesta": "Es el comportamiento del administrador ante las situaciones laborales, incluyendo liderazgo, innovación, iniciativa, espíritu emprendedor y capacidad para impulsar cambios y mejoras continuas.",
+      "fuente": "Chiavenato, Cap. 1, p. 4",
+      "sabias_que": "Chiavenato considera la actitud como la competencia personal más importante del administrador."
+    },
+    {
+      "id": 81,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Roles",
+      "pregunta": "¿Cuáles son las tres categorías de papeles del administrador según Mintzberg?",
+      "respuesta": "Los papeles del administrador se agrupan en tres categorías: interpersonales, informativos y decisorios, cada una asociada a diferentes funciones administrativas.",
+      "fuente": "Chiavenato, Cap. 1, pp. 5-6",
+      "sabias_que": "Mintzberg identificó diez roles específicos distribuidos entre estas tres categorías."
+    },
+    {
+      "id": 82,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Roles",
+      "pregunta": "¿Qué incluyen los papeles interpersonales del administrador?",
+      "respuesta": "Incluyen los roles de representante, líder y vinculador, mediante los cuales el administrador interactúa con personas, ejerce influencia y mantiene relaciones internas y externas.",
+      "fuente": "Chiavenato, Cap. 1, pp. 5-6",
+      "sabias_que": "Estos papeles están directamente relacionados con las habilidades humanas."
+    },
+    {
+      "id": 83,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Roles",
+      "pregunta": "¿Qué incluyen los papeles informativos del administrador?",
+      "respuesta": "Incluyen los roles de monitor, diseminador y vocero, mediante los cuales obtiene, procesa, transmite y comparte información dentro y fuera de la organización.",
+      "fuente": "Chiavenato, Cap. 1, pp. 5-6",
+      "sabias_que": "Los directivos de alto nivel dedican más del 75% de su tiempo al intercambio de información."
+    },
+    {
+      "id": 84,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Roles",
+      "pregunta": "¿Qué incluyen los papeles decisorios del administrador?",
+      "respuesta": "Incluyen los roles de emprendedor, solucionador de conflictos, asignador de recursos y negociador, enfocados en la toma de decisiones y la solución de problemas organizacionales.",
+      "fuente": "Chiavenato, Cap. 1, pp. 5-6",
+      "sabias_que": "Estos roles requieren combinar habilidades técnicas, humanas y conceptuales."
+    },
+    {
+      "id": 85,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Concepto",
+      "pregunta": "¿Cuál es el significado actual de la administración?",
+      "respuesta": "Actualmente la administración consiste en definir objetivos organizacionales y convertirlos en acciones mediante la planeación, organización, dirección y control para asegurar competitividad y resultados.",
+      "fuente": "Chiavenato, Cap. 1, p. 8",
+      "sabias_que": "El término originalmente significaba servir bajo el mando de otra persona."
+    },
+    {
+      "id": 86,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Funciones",
+      "pregunta": "¿Cuáles son las funciones básicas del proceso administrativo?",
+      "respuesta": "Las funciones básicas son planear, organizar, dirigir y controlar los recursos y competencias de la organización para alcanzar objetivos previamente establecidos.",
+      "fuente": "Chiavenato, Cap. 1, p. 8",
+      "sabias_que": "Estas funciones son comunes a la mayoría de las definiciones modernas de administración."
+    },
+    {
+      "id": 87,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Principios",
+      "pregunta": "¿Cuáles son las cinco conclusiones fundamentales sobre la administración señaladas por Chiavenato?",
+      "respuesta": "La administración ocurre en organizaciones, se realiza mediante personas, enfrenta situaciones complejas, busca oportunidades de negocio y combina teoría con práctica para obtener resultados.",
+      "fuente": "Chiavenato, Cap. 1, pp. 9-10",
+      "sabias_que": "Estas conclusiones resumen la naturaleza práctica y estratégica de la administración moderna."
+    },
+    {
+      "id": 88,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Naturaleza",
+      "pregunta": "¿Por qué la administración es considerada ciencia, tecnología y arte?",
+      "respuesta": "Es ciencia porque se basa en teorías y evidencias; tecnología porque utiliza técnicas y herramientas; y arte porque requiere creatividad, intuición y visión innovadora para resolver problemas.",
+      "fuente": "Chiavenato, Cap. 1, pp. 9-10",
+      "sabias_que": "Pocas disciplinas integran simultáneamente estas tres dimensiones."
+    },
+    {
+      "id": 89,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Teorías",
+      "pregunta": "¿Cuáles son las seis variables básicas estudiadas por la TGA?",
+      "respuesta": "Las variables básicas son tareas, estructura, personas, ambiente, tecnología y competitividad, cuya interacción explica el funcionamiento de las organizaciones.",
+      "fuente": "Chiavenato, Cap. 1, pp. 11-12",
+      "sabias_que": "Cada teoría administrativa enfatiza una o varias de estas variables."
+    },
+    {
+      "id": 90,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "TGA",
+      "pregunta": "¿Cómo estudia la TGA a las organizaciones y empresas?",
+      "respuesta": "La TGA analiza la interacción e interdependencia entre tareas, estructura, personas, tecnología, ambiente y competitividad, considerando sus efectos sistémicos sobre la organización.",
+      "fuente": "Chiavenato, Cap. 1, p. 12",
+      "sabias_que": "El comportamiento conjunto de las variables es diferente de la suma de sus efectos individuales."
+    },
+    {
+      "id": 91,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Sociedad",
+      "pregunta": "¿Por qué la administración es considerada un fenómeno universal?",
+      "respuesta": "Porque todas las organizaciones necesitan coordinar recursos, personas y actividades para alcanzar objetivos, independientemente de su tamaño, sector o ubicación geográfica.",
+      "fuente": "Chiavenato, Cap. 1, pp. 12-13",
+      "sabias_que": "La administración está presente en empresas, gobiernos, hospitales, universidades y organizaciones sociales."
+    },
+    {
+      "id": 92,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Administrador",
+      "pregunta": "¿Cuál es el papel del administrador en la sociedad moderna?",
+      "respuesta": "El administrador es un agente de cambio y transformación que orienta organizaciones, modifica comportamientos, impulsa innovaciones y contribuye al logro de objetivos colectivos.",
+      "fuente": "Chiavenato, Cap. 1, p. 13",
+      "sabias_que": "Su influencia alcanza tanto a los miembros de la organización como a clientes y sociedad."
+    },
+    {
+      "id": 93,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Tendencias",
+      "pregunta": "¿Qué factores incrementarán la complejidad de la administración en el futuro?",
+      "respuesta": "El crecimiento organizacional, la competencia más intensa, los avances tecnológicos, la globalización de la economía y la mayor visibilidad pública de las organizaciones.",
+      "fuente": "Chiavenato, Cap. 1, pp. 14-15",
+      "sabias_que": "Estos factores obligan a administrar bajo condiciones crecientes de incertidumbre."
+    },
+    {
+      "id": 94,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Megatendencias",
+      "pregunta": "¿Qué transformación social destaca el paso de la sociedad industrial a la sociedad de la información y el conocimiento?",
+      "respuesta": "Implica que el conocimiento se convierte en el recurso estratégico principal, desplazando al capital financiero como fuente fundamental de ventaja competitiva.",
+      "fuente": "Chiavenato, Cap. 1, p. 15",
+      "sabias_que": "La revolución digital aceleró esta transición mediante telecomunicaciones y computación."
+    },
+    {
+      "id": 95,
+      "subtema": "3. Introducción a la Administración",
+      "categoria": "Megatendencias",
+      "pregunta": "¿Cuál es la principal característica del administrador del futuro según Chiavenato?",
+      "respuesta": "Debe actuar como agente de cambio, con visión estratégica, orientación al largo plazo, capacidad de adaptación, innovación continua y enfoque global con acción local.",
+      "fuente": "Chiavenato, Cap. 1, pp. 15-16",
+      "sabias_que": "El autor considera más importante saber qué hacer que simplemente saber cómo hacerlo."
     }
   ]
 }
