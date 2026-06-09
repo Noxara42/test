@@ -859,7 +859,7 @@
       "respuesta": "Debe actuar como agente de cambio, con visión estratégica, orientación al largo plazo, capacidad de adaptación, innovación continua y enfoque global con acción local.",
       "fuente": "Chiavenato, Cap. 1, pp. 15-16",
       "sabias_que": "El autor considera más importante saber qué hacer que simplemente saber cómo hacerlo."
-    },       
+    },
     {
       "id": 96,
       "subtema": "4. Burocracia y ejercicio de gobierno",
@@ -1111,6 +1111,276 @@
       "respuesta": "Es el proceso mediante el cual una dominación carismática duradera se transforma progresivamente en formas tradicionales, legales, patrimoniales o burocráticas para asegurar su continuidad.",
       "fuente": "Weber, Economía y Sociedad, Capítulo III, §11, pp. 197-199",
       "sabias_que": "Muchas instituciones políticas y religiosas surgieron de liderazgos carismáticos posteriormente institucionalizados."
+    },
+    {
+      "id": 124,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Derechos humanos",
+      "pregunta": "¿Qué obligación impone el artículo 1° a todas las autoridades respecto de los derechos humanos?",
+      "respuesta": "Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos conforme a los principios de universalidad, interdependencia, indivisibilidad y progresividad.",
+      "fuente": "CPEUM, Artículo 1°",
+      "sabias_que": "La reforma constitucional de 2011 transformó el sistema mexicano al colocar los derechos humanos en el centro de toda actuación estatal."
+    },
+    {
+      "id": 125,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "No discriminación",
+      "pregunta": "¿Qué prohíbe el artículo 1° en materia de discriminación?",
+      "respuesta": "Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana.",
+      "fuente": "CPEUM, Artículo 1°, último párrafo",
+      "sabias_que": "La cláusula es abierta, por lo que protege también frente a formas nuevas de discriminación no previstas expresamente."
+    },
+    {
+      "id": 126,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Esclavitud",
+      "pregunta": "¿Qué establece la Constitución respecto de la esclavitud?",
+      "respuesta": "Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por ese solo hecho, su libertad y la protección de las leyes.",
+      "fuente": "CPEUM, Artículo 2°",
+      "sabias_que": "Es una garantía histórica vinculada a los principios liberales que inspiraron las constituciones mexicanas."
+    },
+    {
+      "id": 127,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Igualdad",
+      "pregunta": "¿Qué reconoce el artículo 4° sobre mujeres y hombres?",
+      "respuesta": "La mujer y el hombre son iguales ante la ley. Esta disposición obliga a todas las autoridades a garantizar la igualdad jurídica entre ambos.",
+      "fuente": "CPEUM, Artículo 4°",
+      "sabias_que": "La igualdad formal prevista en la Constitución sirve de base para políticas públicas de igualdad sustantiva."
+    },
+    {
+      "id": 128,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Petición",
+      "pregunta": "¿Qué derecho garantiza el artículo 8° a los ciudadanos?",
+      "respuesta": "Los funcionarios y empleados públicos deben respetar el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa, y deben emitir un acuerdo por escrito.",
+      "fuente": "CPEUM, Artículo 8°",
+      "sabias_que": "Es uno de los derechos más utilizados por las personas para solicitar información o actuaciones de la autoridad."
+    },
+    {
+      "id": 129,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Expresión",
+      "pregunta": "¿Qué protege el artículo 6° sobre la libertad de expresión?",
+      "respuesta": "La manifestación de las ideas no será objeto de inquisición judicial o administrativa, salvo cuando ataque la moral, la vida privada, los derechos de terceros, provoque algún delito o perturbe el orden público.",
+      "fuente": "CPEUM, Artículo 6°",
+      "sabias_que": "La libertad de expresión es considerada un requisito esencial para la vida democrática."
+    },
+    {
+      "id": 130,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Información",
+      "pregunta": "¿Cuál es el principio general sobre acceso a la información pública?",
+      "respuesta": "Toda la información en posesión de cualquier autoridad, entidad, órgano u organismo es pública y sólo podrá reservarse temporalmente por razones de interés público y seguridad nacional previstas en la ley.",
+      "fuente": "CPEUM, Artículo 6°, Apartado A",
+      "sabias_que": "Este principio sustenta las obligaciones de transparencia de toda la Administración Pública Federal."
+    },
+    {
+      "id": 131,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Asociación",
+      "pregunta": "¿Qué derecho reconoce el artículo 9° respecto de las reuniones y asociaciones?",
+      "respuesta": "No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; únicamente los ciudadanos pueden hacerlo para tomar parte en los asuntos políticos del país.",
+      "fuente": "CPEUM, Artículo 9°",
+      "sabias_que": "El derecho de asociación es la base jurídica de partidos políticos, sindicatos y organizaciones civiles."
+    },
+    {
+      "id": 132,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Tránsito",
+      "pregunta": "¿Qué libertad garantiza el artículo 11 a toda persona?",
+      "respuesta": "Toda persona tiene derecho a entrar, salir, viajar por el territorio nacional y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvoconducto u otros requisitos semejantes.",
+      "fuente": "CPEUM, Artículo 11",
+      "sabias_que": "Este derecho sólo puede restringirse en los casos expresamente previstos por la Constitución o las leyes."
+    },
+    {
+      "id": 133,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Retroactividad",
+      "pregunta": "¿Qué prohíbe el artículo 14 respecto de las leyes?",
+      "respuesta": "A ninguna ley se dará efecto retroactivo en perjuicio de persona alguna, protegiendo la seguridad jurídica de los gobernados.",
+      "fuente": "CPEUM, Artículo 14, primer párrafo",
+      "sabias_que": "La prohibición aplica cuando la nueva norma perjudica derechos adquiridos previamente."
+    },
+    {
+      "id": 134,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Legalidad",
+      "pregunta": "¿Qué exige el artículo 16 para los actos de autoridad?",
+      "respuesta": "Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones sino mediante mandamiento escrito de autoridad competente que funde y motive la causa legal del procedimiento.",
+      "fuente": "CPEUM, Artículo 16, primer párrafo",
+      "sabias_que": "Fundar significa citar la norma aplicable; motivar implica explicar por qué se aplica al caso concreto."
+    },
+    {
+      "id": 135,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Justicia",
+      "pregunta": "¿Qué establece el artículo 17 sobre la impartición de justicia?",
+      "respuesta": "Ninguna persona podrá hacerse justicia por sí misma y los tribunales deben impartir justicia de manera pronta, completa, imparcial y gratuita.",
+      "fuente": "CPEUM, Artículo 17",
+      "sabias_que": "La gratuidad judicial impide cobrar por el acceso a los tribunales."
+    },
+    {
+      "id": 136,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Debido proceso",
+      "pregunta": "¿Qué principio reconoce el artículo 20 en el proceso penal?",
+      "respuesta": "El proceso penal será acusatorio y oral y se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.",
+      "fuente": "CPEUM, Artículo 20, Apartado A",
+      "sabias_que": "La reforma penal de 2008 sustituyó el modelo predominantemente escrito por uno acusatorio."
+    },
+    {
+      "id": 137,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Víctimas",
+      "pregunta": "¿Qué derecho tiene la víctima respecto de la reparación del daño?",
+      "respuesta": "La víctima u ofendido tiene derecho a que se le repare el daño y el juzgador no podrá absolver al sentenciado de dicha reparación cuando exista sentencia condenatoria.",
+      "fuente": "CPEUM, Artículo 20, Apartado C, fracción IV",
+      "sabias_que": "La reparación del daño forma parte de los derechos fundamentales de las víctimas."
+    },
+    {
+      "id": 138,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Suspensión",
+      "pregunta": "¿Cuándo pueden restringirse o suspenderse derechos y garantías?",
+      "respuesta": "Únicamente en los casos de invasión, perturbación grave de la paz pública u otro peligro o conflicto que ponga a la sociedad en grave peligro o conflicto, conforme al artículo 29.",
+      "fuente": "CPEUM, Artículo 29",
+      "sabias_que": "Incluso en estados de excepción existen derechos que no pueden suspenderse."
+    },
+    {
+      "id": 139,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Ejecutivo federal",
+      "pregunta": "¿En quién se deposita el Supremo Poder Ejecutivo de la Unión?",
+      "respuesta": "El ejercicio del Supremo Poder Ejecutivo de la Unión se deposita en un solo individuo denominado Presidente de los Estados Unidos Mexicanos.",
+      "fuente": "CPEUM, Artículo 80",
+      "sabias_que": "México adopta un sistema presidencial donde el Ejecutivo es unipersonal."
+    },
+    {
+      "id": 140,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Elección presidencial",
+      "pregunta": "¿Cómo se elige al Presidente de los Estados Unidos Mexicanos?",
+      "respuesta": "La elección presidencial es directa y se realiza en los términos que disponga la ley electoral. Además, el cargo puede ser revocado conforme a la Constitución.",
+      "fuente": "CPEUM, Artículo 81",
+      "sabias_que": "La revocación de mandato fue incorporada al texto constitucional en 2019."
+    },
+    {
+      "id": 141,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Requisitos",
+      "pregunta": "¿Cuál es la edad mínima para ser Presidente de la República?",
+      "respuesta": "Se requiere tener treinta y cinco años cumplidos al tiempo de la elección presidencial.",
+      "fuente": "CPEUM, Artículo 82, fracción II",
+      "sabias_que": "La edad mínima presidencial es mayor que la exigida para diputaciones o senadurías."
+    },
+    {
+      "id": 142,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Residencia",
+      "pregunta": "¿Qué requisito de residencia debe cumplir quien aspire a la Presidencia?",
+      "respuesta": "Debe haber residido en el país durante todo el año anterior al día de la elección; una ausencia de hasta treinta días no interrumpe la residencia.",
+      "fuente": "CPEUM, Artículo 82, fracción III",
+      "sabias_que": "La regla busca asegurar el vínculo efectivo del candidato con la realidad nacional."
+    },
+    {
+      "id": 143,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "No reelección",
+      "pregunta": "¿Cuál es la duración del cargo presidencial y qué regla de reelección aplica?",
+      "respuesta": "El Presidente entra en funciones el 1 de octubre, dura seis años en el cargo y en ningún caso podrá volver a desempeñar ese puesto.",
+      "fuente": "CPEUM, Artículo 83",
+      "sabias_que": "El principio de no reelección es uno de los pilares históricos del sistema político mexicano."
+    },
+    {
+      "id": 144,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Facultades",
+      "pregunta": "¿Cuál es una facultad esencial del Presidente en materia administrativa?",
+      "respuesta": "Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyendo en la esfera administrativa a su exacta observancia.",
+      "fuente": "CPEUM, Artículo 89, fracción I",
+      "sabias_que": "De esta facultad deriva la emisión de reglamentos administrativos."
+    },
+    {
+      "id": 145,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Administración pública",
+      "pregunta": "¿Cómo se organiza la Administración Pública Federal?",
+      "respuesta": "La Administración Pública Federal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso de la Unión.",
+      "fuente": "CPEUM, Artículo 90",
+      "sabias_que": "Las secretarías de Estado integran la administración centralizada del Ejecutivo Federal."
+    },
+    {
+      "id": 146,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Secretarios",
+      "pregunta": "¿Qué requisitos establece la Constitución para ser Secretario de Estado?",
+      "respuesta": "Se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener veinticinco años cumplidos.",
+      "fuente": "CPEUM, Artículo 91",
+      "sabias_que": "La Constitución fija requisitos mínimos; la ley puede establecer condiciones adicionales para ciertos cargos."
+    },
+    {
+      "id": 147,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Refrendo",
+      "pregunta": "¿Qué requisito deben cumplir los reglamentos, decretos y acuerdos presidenciales?",
+      "respuesta": "Deben estar firmados por el Secretario de Estado competente; sin este requisito no serán obedecidos.",
+      "fuente": "CPEUM, Artículo 92",
+      "sabias_que": "Esta figura se conoce como refrendo ministerial y comparte la responsabilidad del acto."
+    },
+    {
+      "id": 148,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Control legislativo",
+      "pregunta": "¿Qué obligación tienen los Secretarios de Estado ante el Congreso?",
+      "respuesta": "Deben informar al Congreso sobre el estado que guardan sus respectivos ramos y pueden ser convocados para rendir cuentas bajo protesta de decir verdad.",
+      "fuente": "CPEUM, Artículo 93",
+      "sabias_que": "Las comparecencias son un mecanismo de control político sobre el Poder Ejecutivo."
+    },
+    {
+      "id": 149,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Poder Judicial",
+      "pregunta": "¿En qué órganos se deposita el Poder Judicial de la Federación?",
+      "respuesta": "Se deposita en la Suprema Corte de Justicia de la Nación, el Tribunal de Disciplina Judicial, el órgano de administración judicial, los Tribunales Colegiados de Circuito, los Tribunales Colegiados de Apelación y los Juzgados de Distrito.",
+      "fuente": "CPEUM, Artículo 94",
+      "sabias_que": "La reforma judicial de 2024 modificó de forma importante la estructura del Poder Judicial Federal."
+    },
+    {
+      "id": 150,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Suprema Corte",
+      "pregunta": "¿Cuántas personas integran la Suprema Corte de Justicia de la Nación?",
+      "respuesta": "La Suprema Corte de Justicia de la Nación se compone de nueve Ministras y Ministros.",
+      "fuente": "CPEUM, Artículo 94",
+      "sabias_que": "El número de integrantes ha variado a lo largo de la historia constitucional mexicana."
+    },
+    {
+      "id": 151,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Electoral",
+      "pregunta": "¿Qué carácter tiene el Tribunal Electoral dentro del Poder Judicial?",
+      "respuesta": "Es la máxima autoridad jurisdiccional en materia electoral y un órgano especializado del Poder Judicial de la Federación.",
+      "fuente": "CPEUM, Artículo 99",
+      "sabias_que": "Sus resoluciones definitivas garantizan la certeza y legalidad de los procesos electorales."
+    },
+    {
+      "id": 152,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Controversias",
+      "pregunta": "¿Qué asuntos resuelve la Suprema Corte mediante controversias constitucionales?",
+      "respuesta": "Las controversias que surjan entre distintos órdenes de gobierno u órganos constitucionales, en los casos previstos por la propia Constitución.",
+      "fuente": "CPEUM, Artículo 105",
+      "sabias_que": "Las controversias constitucionales son un mecanismo para preservar el equilibrio federal."
+    },
+    {
+      "id": 153,
+      "subtema": "5. Constitución Política de los Estados Unidos Mexicanos",
+      "categoria": "Amparo",
+      "pregunta": "¿Quién puede promover un juicio de amparo?",
+      "respuesta": "La persona que aduzca ser titular de un derecho o de un interés legítimo individual o colectivo y considere que un acto viola derechos reconocidos por la Constitución.",
+      "fuente": "CPEUM, Artículo 107, fracción I",
+      "sabias_que": "La reforma de 2011 amplió la procedencia del amparo al interés legítimo, no sólo al derecho subjetivo."
     }
   ]
 }
